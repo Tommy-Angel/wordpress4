@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 16, 2025 at 1:02 pm by All in One SEO v4.7.7.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://tommy-angel.github.io/wordpress4/default-sitemap.xsl?sitemap=mad-dog"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://tommy-angel.github.io/wordpress4/mad-dog/writer/]]></loc>
+		<lastmod><![CDATA[2023-02-05T18:01:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://tommy-angel.github.io/wordpress4/wp-content/uploads/2023/02/award.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://tommy-angel.github.io/wordpress4/mad-dog/mad-dog/]]></loc>
+		<lastmod><![CDATA[2022-12-19T19:31:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://tommy-angel.github.io/wordpress4/wp-content/uploads/2022/11/rewards.png]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

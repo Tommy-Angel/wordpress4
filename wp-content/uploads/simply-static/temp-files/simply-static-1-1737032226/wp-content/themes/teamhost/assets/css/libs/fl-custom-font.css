@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'icons';
+    src: url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.eot");
+    src: url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.eot#iefix") format("eot"), url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.woff") format("woff"), url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.woff2") format("woff2"), url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.ttf") format("truetype"), url("https://tommy-angel.github.io/wordpress4/wp-content/themes/teamhost/assets/css/fonts/fl-custom-icon-font/icons.svg#icons") format("svg");
+}
+
+.ico_arrow-down:before,
+.ico_arrow-left:before,
+.ico_arrow-right:before,
+.ico_arrow-up:before,
+.ico_checkmark:before,
+.ico_close:before,
+.ico_contacts:before,
+.ico_copy:before,
+.ico_edit:before,
+.ico_logo-icon:before,
+.ico_mission:before,
+.ico_submenu:before,
+.ico_track:before,
+.ico_trash:before,
+.ico_truck-plow:before,
+.ico_user:before,
+.slider-nav .swiper-button-prev:before,
+.slider-nav .swiper-button-next:before,
+.contacts-block:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    width: 1em;
+    font-family: "icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1em;
+    text-decoration: none;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
+.ico_arrow-down:before {
+    content: "";
+}
+
+.ico_arrow-left:before {
+    content: "";
+}
+
+.ico_arrow-right:before {
+    content: "";
+}
+
+.ico_arrow-up:before {
+    content: "";
+}
+
+.ico_checkmark:before {
+    content: "";
+}
+
+.ico_close:before {
+    content: "";
+}
+
+.ico_contacts:before {
+    content: "";
+}
+
+.ico_copy:before {
+    content: "";
+}
+
+.ico_edit:before {
+    content: "";
+}
+
+.ico_logo-icon:before {
+    content: "";
+}
+
+.ico_mission:before {
+    content: "";
+}
+
+.ico_submenu:before {
+    content: "";
+}
+
+.ico_track:before {
+    content: "";
+}
+
+.ico_trash:before {
+    content: "";
+}
+
+.ico_truck-plow:before {
+    content: "";
+}
+
+.ico_user:before {
+    content: "";
+}
