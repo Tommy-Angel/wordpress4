@@ -1,0 +1,218 @@
+@font-face {
+    src: url("../css/fonts/icons.eot");
+    src: url("../css/fonts/icons.eot?#iefix") format("eot"),
+    url("../css/fonts/icons.woff") format("woff"),
+    url("../css/fonts/icons.woff2") format("woff2"),
+    url("../css/fonts/icons.ttf") format("truetype"),
+    url("../css/fonts/icons.svg#icons") format("svg");
+    font-family: "teamhost_icons";
+}
+
+.ico_add-square:before,
+.ico_apple:before,
+.ico_arrow-circle-left:before,
+.ico_arrow-circle-right:before,
+.ico_attach-circle:before,
+.ico_call:before,
+.ico_chats:before,
+.ico_clipboard-text:before,
+.ico_close-circle:before,
+.ico_community:before,
+.ico_edit:before,
+.ico_emoji-happy:before,
+.ico_eye:before,
+.ico_favourites:before,
+.ico_friends:before,
+.ico_gallery:before,
+.ico_help:before,
+.ico_home:before,
+.ico_info-circle:before,
+.ico_market:before,
+.ico_menu:before,
+.ico_message:before,
+.ico_microphone:before,
+.ico_more:before,
+.ico_notification:before,
+.ico_play-circle:before,
+.ico_profile:before,
+.ico_report:before,
+.ico_search:before,
+.ico_shopping-cart:before,
+.ico_star:before,
+.ico_store:before,
+.ico_streams:before,
+.ico_tick-circle:before,
+.ico_trash:before,
+.ico_video-circle:before,
+.ico_wallet:before,
+.ico_windows:before,
+.swiper-button-prev:before,
+.swiper-rtl .swiper-button-next:before,
+.swiper-button-next:before,
+.swiper-rtl .swiper-button-prev:before,
+.stream-item__media a:before,
+.stream-item__count:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-family: "teamhost_icons";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1em;
+    text-decoration: none;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
+.ico_add-square:before {
+    content: "";
+}
+
+.ico_apple:before {
+    content: "";
+}
+
+.ico_arrow-circle-left:before {
+    content: "";
+}
+
+.ico_arrow-circle-right:before {
+    content: "";
+}
+
+.ico_attach-circle:before {
+    content: "";
+}
+
+.ico_call:before {
+    content: "";
+}
+
+.ico_chats:before {
+    content: "";
+}
+
+.ico_clipboard-text:before {
+    content: "";
+}
+
+.ico_close-circle:before {
+    content: "";
+}
+
+.ico_community:before {
+    content: "";
+}
+
+.ico_edit:before {
+    content: "";
+}
+
+.ico_emoji-happy:before {
+    content: "";
+}
+
+.ico_eye:before {
+    content: "";
+}
+
+.ico_favourites:before {
+    content: "";
+}
+
+.ico_friends:before {
+    content: "";
+}
+
+.ico_gallery:before {
+    content: "";
+}
+
+.ico_help:before {
+    content: "";
+}
+
+.ico_home:before {
+    content: "";
+}
+
+.ico_info-circle:before {
+    content: "";
+}
+
+.ico_market:before {
+    content: "";
+}
+
+.ico_menu:before {
+    content: "";
+}
+
+.ico_message:before {
+    content: "";
+}
+
+.ico_microphone:before {
+    content: "";
+}
+
+.ico_more:before {
+    content: "";
+}
+
+.ico_notification:before {
+    content: "";
+}
+
+.ico_play-circle:before {
+    content: "";
+}
+
+.ico_profile:before {
+    content: "";
+}
+
+.ico_report:before {
+    content: "";
+}
+
+.ico_search:before {
+    content: "";
+}
+
+.ico_shopping-cart:before {
+    content: "";
+}
+
+.ico_star:before {
+    content: "";
+}
+
+.ico_store:before {
+    content: "";
+}
+
+.ico_streams:before {
+    content: "";
+}
+
+.ico_tick-circle:before {
+    content: "";
+}
+
+.ico_trash:before {
+    content: "";
+}
+
+.ico_video-circle:before {
+    content: "";
+}
+
+.ico_wallet:before {
+    content: "";
+}
+
+.ico_windows:before {
+    content: "";
+}

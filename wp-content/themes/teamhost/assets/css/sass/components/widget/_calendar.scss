@@ -1,0 +1,173 @@
+
+
+.widget_calendar {
+  .calendar_wrap {
+	  position: relative;
+	#wp-calendar {
+	  width: 100%;
+	  position: relative;
+	  background: transparent;
+	  margin: 0;
+	  border: none;
+	  border-collapse: collapse;
+	  caption {
+		  background: transparent;
+		caption-side: top;
+		text-align: center;
+		height: 30px;
+		line-height: 35px;
+		  font-size: 14px;
+		  padding: 0;
+		  margin-bottom: 15px;
+		  color: #222222;
+		  font-weight: 500;
+	  }
+	  thead th,
+	  tbody td {
+		width: 36px;
+		height: 36px;
+		line-height: 36px;
+		text-align: center;
+		padding: 0;
+		vertical-align: middle;
+	  }
+	  thead th{
+		font-size: 12px;
+	  }
+	  tbody td {
+		font-size: 11px;
+	  }
+	  thead {
+		background: transparent;
+		th {
+			color: #222;
+		}
+	  }
+	  tbody {
+		tr {
+		  background: transparent;
+		  td {
+			  background: #fff;
+			  border: 1px solid #dddddd;
+				position: relative;
+			  &#today{
+				  background: #222;
+				  color: #fff;
+			  }
+			  &.pad{
+				  background: transparent;
+			  }
+			a {
+			  display: block;
+			  position: relative;
+			  z-index: 2;
+				color: #F46119!important;
+			  &:before {
+				content: "";
+				position: absolute;
+			  	width: 100%;
+			  	height: 100%;
+				top: 0;
+				left: 0;
+			  	background: #fff;
+				transition: background .3s ease;
+				z-index: -1;
+			  }
+			  &:hover {
+				color: #d69e06!important;
+			  }
+			}
+			  &.pad{
+				  border: none;
+			  }
+		  }
+		}
+	  }
+	}
+	  .wp-calendar-nav {
+		  background: transparent;
+		  position: absolute;
+		  top: 0;
+		  width: 100%;
+		  height: 36px;
+		  line-height: 36px;
+		  .wp-calendar-nav-prev,
+		  .wp-calendar-nav-next {
+			  position: absolute;
+			  width: 36px;
+			  top: 50%;
+			  transform: translate(0, -50%);
+			  padding: 0;
+			  a {
+				  border: 1px solid #ddd;
+				  background-color: #fff;
+				  display: block;
+				  position: relative;
+				  margin: 0 auto;
+				  color: transparent!important;
+				  width: 35px;
+				  height: 35px;
+				  line-height: 24px;
+				  text-align: center;
+				  transition: all .3s ease-in;
+				  &:before {
+					  font-family: FontAwesome;
+					  color: #222;
+					  transition: all .3s ease-in;
+					  font-size: 12px;
+					  height: 100%;
+					  display: flex;
+					  align-items: center;
+					  justify-content: center;
+				  }
+				  &:hover {
+					  transition: all .3s ease-in;
+					  &:before{
+						  transition: all .3s ease-in;
+						  color: #F46119
+					  }
+				  }
+			  }
+			  &.pad {
+				  text-align: center;
+				  &:before {
+					  color: #f1f1f1;
+					  font-family: FontAwesome;
+				  }
+			  }
+		  }
+		  .wp-calendar-nav-prev {
+			  left: 0;
+			  a {
+				  &:before {
+					  content: "\f104";
+				  }
+			  }
+			  &.pad {
+				  &:before {
+					  content: "\f104";
+				  }
+			  }
+		  }
+		  .wp-calendar-nav-next {
+			  right: 0;
+			  a {
+				  &:before {
+					  content: "\f105";
+				  }
+			  }
+			  &.pad {
+				  &:before {
+					  content: "\f105";
+				  }
+			  }
+		  }
+	  }
+  }
+}
+
+
+
+
+
+

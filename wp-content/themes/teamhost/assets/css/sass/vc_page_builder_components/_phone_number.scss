@@ -1,0 +1,30 @@
+.fl-phone-number-wrapper-vc{
+  &.inline-phone-wrap{
+    display: inline-flex;
+    flex-direction: column;
+  }
+  .top-content{
+    color: #b5bec9;
+    margin-bottom: 2px;
+  }
+  .bottom-content{
+    display: inline-flex;
+    align-items: center;
+    i{
+      transform: rotate(-90deg);
+      display: inline-block;
+      font-size: 17px;
+    }
+    .phone-number-link{
+      margin-left: 6px;
+      color: #fff;
+      font-size: 18px;
+      transition: .3s ease;
+      &:hover{
+        transition: .3s ease;
+      }
+    }
+  }
+}
+
+

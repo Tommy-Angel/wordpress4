@@ -1,0 +1,135 @@
+.tm_team{
+  ul{
+    list-style: unset!important;
+    margin: 0!important;
+    li{
+      margin-top: 0px;
+    }
+    .social__item{
+      margin: 0px;
+    }
+    .social__item + .social__item {
+      margin-left: 5px;
+    }
+  }
+}
+
+.team-user {
+  display: block;
+  position: relative;
+  max-width: 260px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 2px;
+}
+.team-user__photo {
+  display: block;
+  position: relative;
+}
+.team-user__photo::before {
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  content: '';
+  opacity: 0;
+  transition: all 0.3s linear;
+}
+.team-user__photo img {
+  width: 100%;
+}
+.team-user__body {
+  padding: 35px;
+  background-color: #fff;
+}
+.team-user {
+  min-height: 430px;
+}
+.team-user__name {
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  margin-bottom: 5px;
+  color: #222;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.2;
+  transition: all 0.3s linear;
+}
+.team-user__position {
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  color: #888;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+  transition: all 0.3s linear;
+}
+
+
+.team-user:hover .team-user__social {
+  display: block;
+}
+.team-user__social {
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  margin-top: 20px;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s linear;
+  display: none;
+}
+.team-user:hover .team-user__photo:before,
+.team-user:focus .team-user__photo:before,
+.team-user:active .team-user__photo:before,
+.team-user.nice-select.open .team-user__photo:before {
+  opacity: 1;
+}
+.team-user:hover .team-user__body,
+.team-user:focus .team-user__body,
+.team-user:active .team-user__body,
+.team-user.nice-select.open .team-user__body {
+  background-color: #222;
+}
+.team-user:hover .team-user__name,
+.team-user:hover .team-user__position,
+.team-user:focus .team-user__name,
+.team-user:focus .team-user__position,
+.team-user:active .team-user__name,
+.team-user.nice-select.open .team-user__name,
+.team-user:active .team-user__position,
+.team-user.nice-select.open .team-user__position {
+  color: #fff;
+}
+.team-user:hover .team-user__social,
+.team-user:focus .team-user__social,
+.team-user:active .team-user__social,
+.team-user.nice-select.open .team-user__social {
+  opacity: 1;
+  pointer-events: all;
+}
+
+
+
+
+@media (max-width: 767px) {
+  .team-user__name {
+    font-size: calc(20px + 6.8 * ((100vw - 320px) / 1920));
+  }
+  .team-user__position {
+    font-size: calc(12px + 6.8 * ((100vw - 320px) / 1920));
+  }
+}
+
+@media only screen and (max-width: 1920px) and (min-width: 767px) {
+  .team-user__name {
+    font-size: calc(20px + 4 * (100vw / 1920));
+  }
+  .team-user__position {
+    font-size: calc(12px + 4 * (100vw / 1920));
+  }
+}

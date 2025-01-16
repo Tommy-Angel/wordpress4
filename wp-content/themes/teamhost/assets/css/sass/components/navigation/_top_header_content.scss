@@ -1,0 +1,304 @@
+.page-header__inner {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.admin-bar{
+  .page-wrapper{
+    //margin-top: 32px;
+  }
+}
+
+
+.fixed-navbar-two{
+  #youzify{
+    margin-top: 190px;
+  }
+}
+.padding-fixed-navbar{
+  #youzify{
+    margin-top: 106px;
+  }
+}
+.fl-header--navigation{
+  &.fixed-navbar{
+    position: absolute;
+    background: #fff;
+    width: 100%;
+    z-index: 9;
+  }
+  &.fixed-enable{
+    box-shadow: 0 1px 1px 0 #ddd;
+    transition: .5s ease;
+    position: fixed;
+    background: #fff;
+    z-index: 99;
+    animation: enable_fixed_nav_bar .3s ease;
+    .page-header__top-line{
+      display: none;
+    }
+    .fl--logo-container{
+      top: 0!important;
+    }
+  }
+  &.scrollUp{
+    transform: translateY( calc(-100% - 2px));
+    transition: .5s ease;
+  }
+}
+
+.padding-fixed-navbar{
+  .page-main{
+    padding-top: 106px;
+    .page-main{
+      padding-top: 0px;
+    }
+  }
+  &.fixed-navbar-two{
+    .page-main{
+      padding-top: 190px;
+      .page-main{
+        padding-top: 0px;
+      }
+    }
+  }
+}
+
+
+
+@keyframes enable_fixed_nav_bar {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(0); }
+}
+
+
+
+.page-header.--two-line {
+  padding: 0;
+}
+.page-header.--two-line .page-header__top-line {
+  padding: 12px 0;
+  background-color: #222;
+}
+.page-header.--two-line .page-header__bottom-line {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.page-header.--two-line .page-header__social {
+  margin-right: 30px;
+}
+.page-header.--two-line .page-header__social .social__link {
+  background-color: transparent;
+}
+.page-header.--two-line .page-header__social .social__link:hover {
+  background-color: #F46119;
+}
+.page-header.--two-line .page-header__contacts {
+  display: block;
+  position: relative;
+  margin-top: -12px;
+  margin-bottom: -20px;
+  padding: 12px 30px;
+  border: none;
+  background-color: #F46119;
+}
+.page-header.--two-line .page-header__contacts:before,
+.page-header.--two-line .page-header__contacts:after {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  content: '';
+}
+.page-header.--two-line .page-header__contacts::before {
+  left: -8px;
+  width: 0;
+  height: 0;
+  border-width: 0 8px 8px 0;
+  border-style: solid;
+  border-color: transparent #966f0c transparent transparent;
+}
+.page-header.--two-line .page-header__contacts:after {
+  right: -8px;
+  width: 0;
+  height: 0;
+  border-width: 8px 8px 0 0;
+  border-style: solid;
+  border-color: #966f0c transparent transparent transparent;
+}
+.page-header.--two-line {
+  &.tm-phone-block-no-image{
+    .contacts-block{
+      padding-left: unset;
+    }
+  }
+}
+.page-header.--two-line .contacts-block {
+  padding-left: 50px;
+  img{
+    width: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+}
+.page-header.--two-line .contacts-block span {
+  color: #fff;
+  font-size: 14px;
+}
+.page-header.--two-line .contacts-block strong {
+  color: #fff;
+  font-size: 22px;
+}
+.page-header.--two-line .uk-icon-button {
+  width: 55px;
+  height: 55px;
+}
+.page-header.--two-line .page-header__mainmenu {
+  margin: 0 auto;
+}
+
+
+.page-header__contacts-list {
+  margin-right: auto;
+}
+.page-header__contacts-list ul {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.page-header__contacts-list ul li {
+  display: block;
+  position: relative;
+}
+.page-header__contacts-list ul li + li {
+  margin-left: 20px;
+}
+.page-header__contacts-list ul li a {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.44;
+}
+.page-header__contacts-list ul li a .uk-icon {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin-right: 10px;
+  overflow: hidden;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+
+.social {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.social li a {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  transition: all 0.3s linear;
+}
+.social li a:hover {
+  background-color: #F46119;
+}
+.social li + li {
+  margin-left: 5px;
+}
+
+
+.contacts-block {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 70px;
+}
+.contacts-block i::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -25px;
+  color: #F46119;
+  font-size: 50px;
+}
+.contacts-block span {
+  margin-bottom: 5px;
+  color: #222;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+}
+.contacts-block strong {
+  color: #222;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1;
+}

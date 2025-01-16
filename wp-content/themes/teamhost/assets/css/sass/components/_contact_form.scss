@@ -1,0 +1,23 @@
+.fl-contact-form{
+  label{
+    display: block;
+    margin-bottom: 13px;
+    font-size: 13px;
+  }
+  input{
+    &:hover,&:focus,&:active{
+      border-color: transparent!important;
+    }
+  }
+  .textarea-container{
+    textarea{
+      border-radius: 0;
+      &:hover,&:focus,&:active{
+        border-color: transparent!important;
+      }
+    }
+  }
+  .submit-btn-container{
+    margin-top: 10px;
+  }
+}

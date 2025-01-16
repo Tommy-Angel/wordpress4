@@ -1,0 +1,149 @@
+.article-full__bottom{
+  .article-full__tags{
+    h6{
+      color: #333;
+    }
+  }
+}
+
+.tags-list {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -ms-flex-wrap: wrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  width: 80%;
+}
+.tags-list a {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.tags-list a {
+  -webkit-box-sizing: border-box;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 40px;
+  padding: 0 20px;
+  border: 1px solid #dddddd;
+  background-color: #ffffff;
+  color: #222222;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 2.86;
+  text-transform: capitalize;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+.tags-list a:hover,
+.tags-list a:focus,
+.tags-list a:active,
+.tags-list a.nice-select.open {
+  border-color: #edb509;
+  background-color: #edb509;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+.section-article-related {
+  position: relative;
+  margin-top: 35px;
+  padding-bottom: 0;
+  &.tags_show{
+    margin-top: 20px;
+  }
+}
+.section-article-related:after {
+  display: block;
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 13px;
+  background-image: url(../img/decor/decor-lines-grey.png);
+  content: '';
+}
+.section-article-related .section-title {
+  margin-bottom: 35px;
+}
+.section-article-related .section-title .uk-h2 {
+  margin-bottom: 0;
+  color: #222222;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.section-article-related{
+  .section-title{
+    h3{
+      margin-bottom: 0px;
+      color: #222222;
+    }
+  }
+}
+
+.section-article-reviews .section-title {
+  margin-bottom: 40px;
+}
+.section-article-reviews .section-title .uk-h2 {
+  margin-bottom: 0;
+  color: #222222;
+  font-size: 29px !important;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.section-article-reviews {
+  display: block;
+  position: relative;
+  margin-top: 70px;
+}
+
+
+#reply-title{
+  small{
+    margin-left: 10px;
+    a{
+      color: #F46119;
+    }
+  }
+}
+
+.single-post{
+  .sidebar_right {
+    right: unset;
+  }
+  .sidebar_left {
+    left: unset;
+  }
+  .menu_style_one{
+    & > *{
+      padding-left: 30px;
+    }
+  }
+  .no_sidebar{
+    .single_post_content{
+
+    }
+  }
+}
+
+.page-main.nav_style_two{
+  .fl_main_post_single{
+    .sidebar_left{
+      padding-left: 0px;
+    }
+  }
+}

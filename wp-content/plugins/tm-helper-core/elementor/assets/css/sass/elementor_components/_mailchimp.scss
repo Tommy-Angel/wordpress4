@@ -1,0 +1,46 @@
+form.mc4wp-form{
+  .mc4wp-form-fields{
+    width: 100%;
+    outline: 0.52083vw solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    background: #fff;
+    padding: 15px 15px 15px 25px;
+    input[type=email]{
+      -webkit-box-flex: 1;
+      flex-grow: 1;
+      width: 100%;
+      padding-left: 41px;
+      border: none;
+      background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolyline fill='none' stroke='%23000' points='1.4,6.5 10,11 18.6,6.5'%3E%3C/polyline%3E%3Cpath d='M 1,4 1,16 19,16 19,4 1,4 Z M 18,15 2,15 2,5 18,5 18,15 Z'%3E%3C/path%3E%3C/svg%3E");
+      background-position: left center;
+      background-repeat: no-repeat;
+      background-color: #fff;
+      height: 40px;
+      &::placeholder{
+        font-size: 18px;
+        color: -internal-light-dark(black, white);
+        font-weight: 400;
+      }
+      &:hover, &:active, &:focus{
+        border-radius: unset;
+        box-shadow: unset;
+      }
+    }
+    input[type=submit]{
+      height: 40px;
+      padding: 0 25px;
+      border: none;
+      border-left: 1px solid #ddd;
+      background: none;
+      color: #222;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 2;
+      text-transform: uppercase;
+      &:hover, &:active, &:focus{
+        border-radius: unset;
+        box-shadow: unset;
+      }
+    }
+  }
+}

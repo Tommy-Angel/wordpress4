@@ -1,0 +1,45 @@
+.fl-accordion{
+  .vc_tta-container{
+    .vc_tta-panels{
+      //
+      .vc_tta-panel{
+        border-top: 1px solid;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        .vc_tta-panel-heading{
+          padding-top: 0;
+          padding-bottom: 0;
+          .vc_tta-panel-title{
+            font-size: 16px;
+            a{
+              padding-top: 0;
+              padding-bottom: 0;
+              padding-left: 0;
+              .fl-tta-panel-icon{
+                i{
+                  transition: .3s ease;
+                }
+              }
+            }
+          }
+        }
+        .vc_tta-panel-body{
+          padding-left: 33px;
+          padding-top: 15px;
+        }
+        &.vc_active{
+          .fl-tta-panel-icon{
+            i{
+              transition: .3s ease;
+              transform: scaleX(-1);
+            }
+          }
+
+        }
+        &:last-child{
+          border-bottom: 1px solid;
+        }
+      }
+    }
+  }
+}

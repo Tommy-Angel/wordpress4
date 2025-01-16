@@ -1,0 +1,138 @@
+
+---Downloaded files---
+The import files for: Gaming Community were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress4
+Data file = C:\xampp\htdocs\wordpress4/wp-content/uploads/2025/01/demo-content-import-file_2025-01-07__01-32-34.xml
+Widget file = C:\xampp\htdocs\wordpress4/wp-content/uploads/2025/01/demo-widgets-import-file_2025-01-07__01-32-34.json
+Customizer file = C:\xampp\htdocs\wordpress4/wp-content/uploads/2025/01/demo-customizer-import-file_2025-01-07__01-32-34.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Junior": Invalid post type ranks
+[WARNING] Failed to import "Capitan": Invalid post type ranks
+[WARNING] Failed to import "General": Invalid post type ranks
+
+
+---Importing widgets---
+News Sidebar : 
+
+Archives - No Title - Imported
+Product Categories - Product categories - Imported
+Tag Cloud - No Title - Imported
+
+News Sidebar Single Left : 
+
+Custom : Author Box - No Title - Imported
+
+News Sidebar Stream Left : 
+
+Custom : Author Box - No Title - Imported
+
+News Sidebar Single Right : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+Custom : Recent News - Latest News - Imported
+Tag Cloud - No Title - Imported
+
+WooCommerce Archive Search : 
+
+Product Search - No Title - Imported
+
+WooCommerce Archive Sidebar : 
+
+Text - No Title - Imported
+
+Single Stream Sidebar Right : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+Twitch - No Title - Imported
+
+Left Menu Sidebar First : 
+
+Navigation Menu - Account - Imported
+
+Left Menu Sidebar Second : 
+
+Navigation Menu - Main - Imported
+
+Left Menu Sidebar Third : 
+
+Navigation Menu - Support - Imported
+
+Footer Sidebar First Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Second Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Third Column : 
+
+Navigation Menu - No Title - Imported
+
+Activity Stream Left Sidebar : 
+
+Navigation Menu - Account - Imported
+
+Groups Sidebar : 
+
+Youzify - Group Description - No Title - Imported
+Youzify - Group Moderators - Group Moderators - Imported
+Youzify - Group Administrators - Group Administrators - Imported
+
+Forum Sidebar : 
+
+Navigation Menu - Support - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

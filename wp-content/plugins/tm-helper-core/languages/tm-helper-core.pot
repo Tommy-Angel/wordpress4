@@ -1,0 +1,1336 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: TM Helper Core\n"
+"POT-Creation-Date: 2023-02-28 12:52+0600\n"
+"PO-Revision-Date: 2019-11-30 00:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tm-helping-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: acf-metaboxes/streams/posts_option.php:10
+#: elementor/widgets/contacts.php:64 elementor/widgets/download_button.php:51
+#: elementor/widgets/image_slider.php:52 elementor/widgets/reasons.php:65
+#: elementor/widgets/solutions.php:64
+msgid "Image"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:10
+msgid "YouTube/Twitch"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:13
+msgid "Select whstream type"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:22
+msgid "Twitch"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:23
+#: elementor/widgets/socials.php:104
+msgid "Youtube"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:37
+msgid "Twitch Account"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:62
+msgid "Link to Youtube Stream"
+msgstr ""
+
+#: acf-metaboxes/streams/streams_option.php:87
+msgid "Youtube Account"
+msgstr ""
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:26
+msgid "Icon Picker"
+msgstr ""
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:63
+msgid "No icons found"
+msgstr ""
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:72
+#: tm-helping-core.php:91
+msgid "None"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:32
+msgid "Image Select"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:61
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:110
+msgid "Choices"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:111
+msgid ""
+"Enter your choices one per line <br /> Red <br /> Blue <br /> red : Red "
+"<br /> blue : Blue <br /><span style=\"color:#BC0B0B\">Please note:</span> "
+"The first value of each choices will used as name of image.<br />Like for "
+"\"<strong>Blue</strong>\" or \"<strong>blue : Blue</strong>\", the image "
+"name will be \"<strong>blue.png</strong>\""
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:117
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:171
+msgid "Default Value"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:123
+msgid "Allow Multiple Choices?"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:126
+msgid "Yes"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:127
+msgid "No"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:134
+msgid "Image Path"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:135
+msgid "Enter folder URL for images <b>based on current theme</b>."
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:141
+msgid "Image Extension"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:36
+msgid "RGBA Color Picker"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:95
+msgid "Clear"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:96
+msgid "Default"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:97
+msgid "Select Color"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:98
+msgid "Current Color"
+msgstr ""
+
+#: custom_taxonomy/streams.php:12 elementor/widgets/streams.php:29
+#: youzify/youzify.php:26
+msgid "Streams"
+msgstr ""
+
+#: custom_taxonomy/streams.php:13
+msgid "Stream"
+msgstr ""
+
+#: custom_taxonomy/streams.php:14 custom_taxonomy/streams.php:15
+#: custom_taxonomy/streams.php:17
+msgid "Add New Stream"
+msgstr ""
+
+#: custom_taxonomy/streams.php:16 youzify/youzify.php:234
+msgid "Edit Stream"
+msgstr ""
+
+#: custom_taxonomy/streams.php:18
+msgid "View Stream"
+msgstr ""
+
+#: custom_taxonomy/streams.php:19
+msgid "Search Streams"
+msgstr ""
+
+#: custom_taxonomy/streams.php:20
+msgid "No Streams found"
+msgstr ""
+
+#: custom_taxonomy/streams.php:21
+msgid "No Streams found in trash"
+msgstr ""
+
+#: custom_taxonomy/streams.php:47 custom_taxonomy/streams.php:61
+msgid "Categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:48
+msgid "Category"
+msgstr ""
+
+#: custom_taxonomy/streams.php:49
+msgid "Search Categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:50
+msgid "Popular Categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:51
+msgid "All Categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:52
+msgid "Parent Category"
+msgstr ""
+
+#: custom_taxonomy/streams.php:53
+msgid "Parent Category:"
+msgstr ""
+
+#: custom_taxonomy/streams.php:54
+msgid "Edit Category"
+msgstr ""
+
+#: custom_taxonomy/streams.php:55
+msgid "Update Category"
+msgstr ""
+
+#: custom_taxonomy/streams.php:56
+msgid "Add New Category"
+msgstr ""
+
+#: custom_taxonomy/streams.php:57
+msgid "New Category Name"
+msgstr ""
+
+#: custom_taxonomy/streams.php:58
+msgid "Separate categories with commas"
+msgstr ""
+
+#: custom_taxonomy/streams.php:59
+msgid "Add or remove categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:60
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: custom_taxonomy/streams.php:86
+msgid "Thumbnail"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:20
+msgid "Test Box"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:34
+msgid "Page Layout"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:43
+msgid "Layout"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:47
+#: elementor/widgets/button.php:127 elementor/widgets/icon_button.php:84
+#: elementor/widgets/menu.php:80 elementor/widgets/title.php:68
+msgid "Left"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:51
+#: elementor/widgets/button.php:135 elementor/widgets/icon_button.php:82
+#: elementor/widgets/menu.php:88 elementor/widgets/title.php:76
+msgid "Right"
+msgstr ""
+
+#: elementor/custom-controle/image-selector/widget.php:55
+msgid "No Sidebar"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:19
+msgid "Sticky Column"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:33
+msgid "Enable Sticky"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:36
+msgid "Check for Enable Sticky Sidebar."
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:47
+msgid "Spacing Items"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:53
+msgid "Property"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:57
+msgid "Margin"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:58
+msgid "Padding"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:63
+msgid "Direction"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:67
+#: elementor/widgets/icon_button.php:81
+msgid "Top"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:68
+#: elementor/widgets/icon_button.php:83
+msgid "Bottom"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:73
+msgid "Heading Level"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:77
+msgid "H1"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:78
+msgid "H2"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:79
+msgid "H3"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:80
+msgid "H4"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:84
+msgid "Zero Spacing on Checked Screen Sizes"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:90
+msgid "XS Screens (575px and below)"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:99
+msgid "SM Screens (576 - 767px)"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:108
+msgid "MD Screens (768 - 991px)"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:117
+msgid "LG Screens (992 - 1199px)"
+msgstr ""
+
+#: elementor/custom_default_element/elementor-column-sticky-controls.php:126
+msgid "XL Screens (1200px and up)"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:56
+msgid "Section Settings"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:64
+msgid "Bootstrap Container"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:67
+msgid "On"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:68
+msgid "Off"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:80
+msgid "Parallax"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:83
+#: elementor/widgets/menu.php:69 elementor/widgets/reasons.php:56
+msgid "Disable"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:84
+#: elementor/widgets/menu.php:68 elementor/widgets/reasons.php:55
+msgid "Enable"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:94
+msgid "Parallax Color"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:97
+msgid "Light"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:98
+msgid "Dark"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:109
+#: elementor/custom_default_element/tm-helping-core-default-option.php:57
+#: elementor/custom_default_element/tm-helping-core-default-option.php:65
+msgid "Aos Animation"
+msgstr ""
+
+#: elementor/custom_default_element/tm-helping-core-change-default-section.php:148
+#: elementor/custom_default_element/tm-helping-core-default-option.php:104
+msgid "Aos Animation Delay"
+msgstr ""
+
+#: elementor/elementor.php:48
+msgid "Theme Custom Elements"
+msgstr ""
+
+#: elementor/elementor.php:162 elementor/elementor.php:167
+#: fonts_loader/fonts-loader.php:866 fonts_loader/fonts-loader.php:871
+#: function/tm_fonts.php:865 function/tm_fonts.php:870
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: elementor/widgets/blog.php:29
+msgid "News Slider"
+msgstr ""
+
+#: elementor/widgets/blog.php:44 elementor/widgets/button.php:44
+#: elementor/widgets/contacts.php:44 elementor/widgets/counter.php:44
+#: elementor/widgets/download_button.php:44 elementor/widgets/groups.php:44
+#: elementor/widgets/icon_button.php:44 elementor/widgets/image_slider.php:44
+#: elementor/widgets/menu.php:50 elementor/widgets/offers.php:44
+#: elementor/widgets/popular_groups.php:44 elementor/widgets/products.php:44
+#: elementor/widgets/progress_bar.php:44 elementor/widgets/reasons.php:44
+#: elementor/widgets/socials.php:44 elementor/widgets/solutions.php:44
+#: elementor/widgets/streams.php:44 elementor/widgets/subtitle.php:44
+#: elementor/widgets/team.php:44 elementor/widgets/testimonials.php:44
+#: elementor/widgets/text.php:44 elementor/widgets/title.php:44
+#: elementor/widgets/video_button.php:44
+msgid "General Styles"
+msgstr ""
+
+#: elementor/widgets/blog.php:52 elementor/widgets/groups.php:51
+#: elementor/widgets/popular_groups.php:51 elementor/widgets/products.php:52
+msgid "Posts per Page"
+msgstr ""
+
+#: elementor/widgets/blog.php:57 elementor/widgets/groups.php:56
+#: elementor/widgets/popular_groups.php:56 elementor/widgets/products.php:57
+msgid "Enter your posts per page"
+msgstr ""
+
+#: elementor/widgets/blog.php:113
+msgid "View More"
+msgstr ""
+
+#: elementor/widgets/button.php:29
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/button.php:51
+msgid "Arrow"
+msgstr ""
+
+#: elementor/widgets/button.php:54
+msgid "Right Arrow"
+msgstr ""
+
+#: elementor/widgets/button.php:55
+msgid "Left Arrow"
+msgstr ""
+
+#: elementor/widgets/button.php:65 elementor/widgets/icon_button.php:66
+#: elementor/widgets/solutions.php:134
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/button.php:67
+msgid "Get Started"
+msgstr ""
+
+#: elementor/widgets/button.php:68 elementor/widgets/button.php:69
+#: elementor/widgets/icon_button.php:69 elementor/widgets/icon_button.php:70
+#: elementor/widgets/solutions.php:137
+msgid "Enter your button text"
+msgstr ""
+
+#: elementor/widgets/button.php:77 elementor/widgets/icon_button.php:95
+#: elementor/widgets/solutions.php:146
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/button.php:82 elementor/widgets/download_button.php:68
+#: elementor/widgets/icon_button.php:100
+#: elementor/widgets/image_slider.php:68 elementor/widgets/solutions.php:151
+#: elementor/widgets/video_button.php:56
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/button.php:92 elementor/widgets/icon_button.php:109
+msgid "Button ID"
+msgstr ""
+
+#: elementor/widgets/button.php:98 elementor/widgets/icon_button.php:115
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: elementor/widgets/button.php:99 elementor/widgets/icon_button.php:116
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore "
+"chars without spaces."
+msgstr ""
+
+#: elementor/widgets/button.php:113 elementor/widgets/menu.php:103
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/button.php:123 elementor/widgets/menu.php:76
+#: elementor/widgets/title.php:64
+msgid "Text Alignment"
+msgstr ""
+
+#: elementor/widgets/button.php:131 elementor/widgets/menu.php:84
+#: elementor/widgets/title.php:72
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/button.php:150 elementor/widgets/solutions.php:161
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/button.php:165
+msgid "Icon Color Hover"
+msgstr ""
+
+#: elementor/widgets/button.php:180 elementor/widgets/icon_button.php:129
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/button.php:195 elementor/widgets/icon_button.php:145
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/button.php:211 elementor/widgets/counter.php:102
+#: elementor/widgets/icon_button.php:162
+#: elementor/widgets/progress_bar.php:112
+#: elementor/widgets/video_button.php:83
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/button.php:226 elementor/widgets/counter.php:117
+#: elementor/widgets/icon_button.php:177
+#: elementor/widgets/video_button.php:98
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/button.php:245
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/button.php:254
+msgid "Border Hover"
+msgstr ""
+
+#: elementor/widgets/contacts.php:29
+msgid "Contacts"
+msgstr ""
+
+#: elementor/widgets/contacts.php:51 elementor/widgets/reasons.php:51
+msgid "Slider Enable/Disable"
+msgstr ""
+
+#: elementor/widgets/contacts.php:55 elementor/widgets/solutions.php:54
+msgid "Style One"
+msgstr ""
+
+#: elementor/widgets/contacts.php:56 elementor/widgets/solutions.php:55
+msgid "Style Two"
+msgstr ""
+
+#: elementor/widgets/contacts.php:79
+msgid "Phone Title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:84
+msgid "Enter your phone title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:91
+#: widgets/widgets_files/footer_contact_info_widget.php:32
+msgid "Phone"
+msgstr ""
+
+#: elementor/widgets/contacts.php:96
+msgid "Enter your phone"
+msgstr ""
+
+#: elementor/widgets/contacts.php:105
+msgid "Address Title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:110
+msgid "Enter your address title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:120
+#: widgets/widgets_files/footer_contact_info_widget.php:17
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/contacts.php:125
+msgid "Enter your address"
+msgstr ""
+
+#: elementor/widgets/contacts.php:135
+msgid "Address Link"
+msgstr ""
+
+#: elementor/widgets/contacts.php:140 elementor/widgets/contacts.php:187
+msgid "Enter your address link"
+msgstr ""
+
+#: elementor/widgets/contacts.php:152
+msgid "Work hours Title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:157
+msgid "Enter your work hours title"
+msgstr ""
+
+#: elementor/widgets/contacts.php:167
+msgid "Work Time"
+msgstr ""
+
+#: elementor/widgets/contacts.php:172
+msgid "Enter your Work Time"
+msgstr ""
+
+#: elementor/widgets/contacts.php:182
+msgid "Work Time Link"
+msgstr ""
+
+#: elementor/widgets/counter.php:29
+msgid "Counter"
+msgstr ""
+
+#: elementor/widgets/counter.php:51 elementor/widgets/offers.php:53
+#: elementor/widgets/reasons.php:77 elementor/widgets/solutions.php:108
+#: elementor/widgets/testimonials.php:53 elementor/widgets/title.php:29
+#: elementor/widgets/title.php:52 tm-helping-core.php:94
+#: widgets/widgets_files/post_author_widget.php:17
+#: widgets/widgets_files/recent_post_widget.php:17
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/counter.php:56 elementor/widgets/offers.php:58
+#: elementor/widgets/reasons.php:82 elementor/widgets/solutions.php:113
+#: elementor/widgets/solutions.php:125 elementor/widgets/testimonials.php:58
+#: elementor/widgets/title.php:57
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/widgets/counter.php:65
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/counter.php:76
+msgid "Preffix"
+msgstr ""
+
+#: elementor/widgets/counter.php:81
+msgid "Enter your preffix"
+msgstr ""
+
+#: elementor/widgets/counter.php:88 elementor/widgets/offers.php:65
+#: elementor/widgets/progress_bar.php:51 elementor/widgets/reasons.php:90
+#: elementor/widgets/solutions.php:120 elementor/widgets/testimonials.php:65
+#: elementor/widgets/text.php:29 elementor/widgets/text.php:52
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/counter.php:93 elementor/widgets/offers.php:70
+#: elementor/widgets/offers.php:83 elementor/widgets/progress_bar.php:54
+#: elementor/widgets/progress_bar.php:55 elementor/widgets/reasons.php:95
+#: elementor/widgets/team.php:69 elementor/widgets/team.php:82
+#: elementor/widgets/testimonials.php:70
+#: elementor/widgets/testimonials.php:95
+#: elementor/widgets/testimonials.php:107 elementor/widgets/text.php:57
+msgid "Enter your text"
+msgstr ""
+
+#: elementor/widgets/download_button.php:29
+msgid "Download"
+msgstr ""
+
+#: elementor/widgets/download_button.php:63
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/groups.php:29
+msgid "Groups Slider"
+msgstr ""
+
+#: elementor/widgets/groups.php:130
+#: widgets/widgets_files/post_author_widget.php:103 youzify/youzify.php:423
+msgid "Posts"
+msgstr ""
+
+#: elementor/widgets/groups.php:137
+msgid "member"
+msgid_plural "members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/widgets/groups.php:151
+#, php-format
+msgid "Latest active %s"
+msgstr ""
+
+#: elementor/widgets/groups.php:175
+msgid "Manage Group"
+msgstr ""
+
+#: elementor/widgets/groups.php:195
+msgid "Join Group"
+msgstr ""
+
+#: elementor/widgets/groups.php:212 elementor/widgets/groups.php:228
+#: elementor/widgets/groups.php:236 elementor/widgets/popular_groups.php:141
+msgid "No groups"
+msgstr ""
+
+#: elementor/widgets/icon_button.php:29
+msgid "Icon Button"
+msgstr ""
+
+#: elementor/widgets/icon_button.php:51 elementor/widgets/solutions.php:76
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/icon_button.php:68
+msgid "Our Mission"
+msgstr ""
+
+#: elementor/widgets/icon_button.php:78
+msgid "Button Text Position"
+msgstr ""
+
+#: elementor/widgets/icon_button.php:193 elementor/widgets/solutions.php:181
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/image_slider.php:29
+msgid "Image Slider"
+msgstr ""
+
+#: elementor/widgets/image_slider.php:63
+msgid "Image Link"
+msgstr ""
+
+#: elementor/widgets/menu.php:30
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/menu.php:56
+msgid "Select Menu to Show"
+msgstr ""
+
+#: elementor/widgets/menu.php:64
+msgid "Icon Enable/Disable"
+msgstr ""
+
+#: elementor/widgets/offers.php:29
+msgid "Offers"
+msgstr ""
+
+#: elementor/widgets/offers.php:78
+msgid "Action text"
+msgstr ""
+
+#: elementor/widgets/offers.php:90 elementor/widgets/team.php:53
+#: elementor/widgets/testimonials.php:79
+msgid "Avatar"
+msgstr ""
+
+#: elementor/widgets/popular_groups.php:29
+msgid "Popular Groups Slider"
+msgstr ""
+
+#: elementor/widgets/popular_groups.php:98
+msgid "Reviews"
+msgstr ""
+
+#: elementor/widgets/popular_groups.php:107
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/products.php:29
+msgid "Products"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:29
+msgid "Progress Bar"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:53
+msgid "Machinery Help"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:64
+msgid "Percent"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:81 elementor/widgets/solutions.php:50
+#: elementor/widgets/subtitle.php:71 elementor/widgets/text.php:71
+#: elementor/widgets/title.php:98
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:90 elementor/widgets/subtitle.php:80
+#: elementor/widgets/text.php:91
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:101
+msgid "Percent Color"
+msgstr ""
+
+#: elementor/widgets/progress_bar.php:122
+msgid "Bar Color"
+msgstr ""
+
+#: elementor/widgets/reasons.php:29
+msgid "Reasons"
+msgstr ""
+
+#: elementor/widgets/reasons.php:111
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/socials.php:29
+msgid "Socials"
+msgstr ""
+
+#: elementor/widgets/socials.php:52 elementor/widgets/team.php:91
+msgid "Facebook"
+msgstr ""
+
+#: elementor/widgets/socials.php:57 elementor/widgets/team.php:96
+msgid "Enter your Facebook"
+msgstr ""
+
+#: elementor/widgets/socials.php:65 elementor/widgets/team.php:104
+msgid "Twitter"
+msgstr ""
+
+#: elementor/widgets/socials.php:70 elementor/widgets/team.php:109
+msgid "Enter your Twitter"
+msgstr ""
+
+#: elementor/widgets/socials.php:78 elementor/widgets/team.php:117
+msgid "Instagram"
+msgstr ""
+
+#: elementor/widgets/socials.php:83 elementor/widgets/team.php:122
+msgid "Enter your Instagram"
+msgstr ""
+
+#: elementor/widgets/socials.php:91 elementor/widgets/team.php:130
+msgid "Linkedin"
+msgstr ""
+
+#: elementor/widgets/socials.php:96 elementor/widgets/team.php:135
+msgid "Enter your Linkedin"
+msgstr ""
+
+#: elementor/widgets/socials.php:109
+msgid "Enter your Youtube"
+msgstr ""
+
+#: elementor/widgets/solutions.php:29
+msgid "Solutions"
+msgstr ""
+
+#: elementor/widgets/solutions.php:92
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/solutions.php:97
+msgid "Enter your sub-title"
+msgstr ""
+
+#: elementor/widgets/solutions.php:136
+msgid "learn more"
+msgstr ""
+
+#: elementor/widgets/solutions.php:138
+msgid "Only for Style One"
+msgstr ""
+
+#: elementor/widgets/streams.php:69 youzify/youzify.php:76
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/subtitle.php:29 elementor/widgets/subtitle.php:52
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/subtitle.php:57
+msgid "Enter your subtitle"
+msgstr ""
+
+#: elementor/widgets/team.php:29
+msgid "Team"
+msgstr ""
+
+#: elementor/widgets/team.php:64 elementor/widgets/testimonials.php:90
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/team.php:77 elementor/widgets/testimonials.php:102
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:114
+msgid "Rating"
+msgstr ""
+
+#: elementor/widgets/text.php:81
+msgid "Text Typography"
+msgstr ""
+
+#: elementor/widgets/text.php:101
+msgid "Text Margin"
+msgstr ""
+
+#: elementor/widgets/title.php:80
+msgid "Justified"
+msgstr ""
+
+#: elementor/widgets/title.php:108
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/title.php:118
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/title.php:128
+msgid "Title Margin"
+msgstr ""
+
+#: elementor/widgets/video_button.php:29
+msgid "Video Button"
+msgstr ""
+
+#: elementor/widgets/video_button.php:51
+msgid "Video Link"
+msgstr ""
+
+#: elementor/widgets/video_button.php:65
+#: elementor/widgets/video_button.php:68
+#: elementor/widgets/video_button.php:69
+msgid "Caption Text"
+msgstr ""
+
+#: elementor/widgets/video_button.php:67
+msgid "YouTube"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:222 fonts_loader/fonts-loader.php:223
+#: fonts_loader/fonts-loader.php:506 function/tm_fonts.php:229
+#: function/tm_fonts.php:509
+msgid "Font Icons Loader"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:300 function/tm_fonts.php:304
+#, php-format
+msgid "Font %s was successfully removed"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:311 function/tm_fonts.php:315
+msgid "File is not Zip-archive."
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:329 function/tm_fonts.php:333
+msgid "Unzip file error."
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:381 function/tm_fonts.php:385
+msgid "Can`t recognize SVG font file"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:392 function/tm_fonts.php:396
+#, php-format
+msgid "Font %s is already installed, remove it before uploading."
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:404 function/tm_fonts.php:408
+msgid "Can`t copy font file"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:467 function/tm_fonts.php:471
+msgid "Font was successfully uploaded"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:487 function/tm_fonts.php:491
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by "
+"post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:519 fonts_loader/fonts-loader.php:531
+#: function/tm_fonts.php:522 function/tm_fonts.php:534
+msgid "Dismiss this notice."
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:538 function/tm_fonts.php:541
+msgid "Upload a Zip with font files"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:546 function/tm_fonts.php:549
+msgid "Installed fonts"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:549 function/tm_fonts.php:552
+msgid "Expand all"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:552 function/tm_fonts.php:555
+msgid "Collapse all"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:569 function/tm_fonts.php:572
+#, php-format
+msgid "icons: %s"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:599 function/tm_fonts.php:602
+msgid "HTML"
+msgstr ""
+
+#: fonts_loader/fonts-loader.php:603 function/tm_fonts.php:606
+msgid "Shortcode"
+msgstr ""
+
+#: function/custom_function.php:12
+msgid "Facebook Username"
+msgstr ""
+
+#: function/custom_function.php:13
+msgid "Google Plus Username"
+msgstr ""
+
+#: function/custom_function.php:14
+msgid "Instagram Username"
+msgstr ""
+
+#: function/custom_function.php:15
+msgid "Pinterest Username"
+msgstr ""
+
+#: function/custom_function.php:16
+msgid "Twitter Username"
+msgstr ""
+
+#: function/custom_function.php:17
+msgid "Behance Username"
+msgstr ""
+
+#: function/custom_function.php:18
+msgid "Phone Number"
+msgstr ""
+
+#: function/custom_function.php:360
+msgid "Home"
+msgstr ""
+
+#: function/custom_function.php:361
+msgid "Blog"
+msgstr ""
+
+#: function/custom_function.php:362
+msgid "Archive"
+msgstr ""
+
+#: function/custom_function.php:363
+msgid "Search results:"
+msgstr ""
+
+#: function/custom_function.php:364
+msgid "Tag"
+msgstr ""
+
+#: function/custom_function.php:365 tm-helping-core.php:93
+msgid "Author"
+msgstr ""
+
+#: function/custom_function.php:366
+msgid "Error 404"
+msgstr ""
+
+#: function/custom_function.php:367
+msgid "Shop"
+msgstr ""
+
+#: function/custom_function.php:523
+msgid "Page"
+msgstr ""
+
+#: function/custom_function.php:679
+msgid "Published Today"
+msgstr ""
+
+#: function/custom_function.php:682
+msgid " day ago"
+msgstr ""
+
+#: function/custom_function.php:685
+msgid " days ago"
+msgstr ""
+
+#: function/like/post-like.php:32 function/like/post-like.php:226
+msgid "Like"
+msgstr ""
+
+#: function/like/post-like.php:33 function/like/post-like.php:222
+msgid "Unlike"
+msgstr ""
+
+#: function/like/post-like.php:47
+msgid "Not permitted"
+msgstr ""
+
+#: function/like/post-like.php:365
+msgid "You Like:"
+msgstr ""
+
+#: function/like/post-like.php:391
+msgid "You do not like anything yet."
+msgstr ""
+
+#: function/reviews-walker.php:122
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: function/reviews-walker.php:155 function/reviews-walker.php:182
+#: function/reviews-walker.php:195
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: function/social-share/social.php:85
+msgid "Share This"
+msgstr ""
+
+#: tm-helping-core.php:92
+msgid "ID"
+msgstr ""
+
+#: tm-helping-core.php:95
+msgid "Name (slug)"
+msgstr ""
+
+#: tm-helping-core.php:96
+msgid "Date"
+msgstr ""
+
+#: tm-helping-core.php:97
+msgid "Modified"
+msgstr ""
+
+#: tm-helping-core.php:98
+msgid "Rand"
+msgstr ""
+
+#: tm-helping-core.php:99
+msgid "Comment Count"
+msgstr ""
+
+#: tm-helping-core.php:100
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/widgets.php:329
+msgid "All categories"
+msgstr ""
+
+#: widgets/widgets.php:404
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/widgets.php:406
+msgid "Remove Image"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:17
+msgid "Facebook Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:23
+msgid "Twitter Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:29
+msgid "Instagram Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:35
+msgid "Linkedin Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:41
+msgid "YouTube Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:48
+msgid "Custom Icon 1 HTML Class:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:54
+msgid "Custom Icon 1 Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:60
+msgid "Custom Icon 2 HTML Class:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:66
+msgid "Custom Icon 2 Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:72
+msgid "Custom Icon 3 HTML Class:"
+msgstr ""
+
+#: widgets/widgets_files/footer-social-profile-widget.php:78
+msgid "Custom Icon 3 Link:"
+msgstr ""
+
+#: widgets/widgets_files/footer_contact_info_widget.php:23
+msgid "Address Map Url"
+msgstr ""
+
+#: widgets/widgets_files/footer_contact_info_widget.php:39
+msgid "Email"
+msgstr ""
+
+#: widgets/widgets_files/post_author_widget.php:98
+msgid "Followers"
+msgstr ""
+
+#: widgets/widgets_files/post_author_widget.php:108 youzify/youzify.php:430
+msgid "View my profile"
+msgstr ""
+
+#: widgets/widgets_files/recent_post_widget.php:24
+msgid "Limit"
+msgstr ""
+
+#: youzify/youzify.php:58
+msgid ""
+"Your request has been submitted and once approved your place will be "
+"available for show ."
+msgstr ""
+
+#: youzify/youzify.php:156
+msgid "Edit"
+msgstr ""
+
+#: youzify/youzify.php:159
+msgid "Show"
+msgstr ""
+
+#: youzify/youzify.php:163
+msgid "Hide"
+msgstr ""
+
+#: youzify/youzify.php:242 youzify/youzify.php:314 youzify/youzify.php:362
+msgid "Add Stream"
+msgstr ""
+
+#: youzify/youzify.php:289 youzify/youzify.php:337
+msgid "Update meta"
+msgstr ""
+
+#: youzify/youzify.php:479
+msgid "View All"
+msgstr ""
+
+#: youzify/youzify.php:507
+msgid "Please select a "
+msgstr ""
+
+#: youzify/youzify.php:508
+msgid "plan"
+msgstr ""
+
+#: youzify/youzify.php:510
+msgid " to add a vehicle. "
+msgstr ""
+
+#: youzify/youzify.php:516
+msgid "Your Level: "
+msgstr ""
+
+#: youzify/youzify.php:520
+msgid "Start: "
+msgstr ""
+
+#: youzify/youzify.php:524
+msgid "End: "
+msgstr ""
+
+#: youzify/youzify.php:530
+msgid "All Levels"
+msgstr ""
+
+#: youzify/youzify.php:570
+msgid "Orders"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TM Helper Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ": https://themeforest.net/user/tm_colors"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Helper plugin for TM themes. Don't delete this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TM_Colors"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/tm_colors"
+msgstr ""

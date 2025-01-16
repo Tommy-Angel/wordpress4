@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e5c9f21-1d7e-4adb-a360-695e4b89e7c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2Bv9guUHfKAPruIItNbMLIDWdu4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elementor/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\teamhost\wp-content\plugins\tm-helper-core\elementor\img" />
+      <recent name="C:\OSPanel\domains\teamhost\wp-content\plugins\tm-helper-core\function" />
+      <recent name="C:\OSPanel\domains\teamhost\wp-content\plugins\tm-helper-core\elementor\assets\css\sass\elementor_components" />
+      <recent name="C:\OSPanel\domains\teamhost\wp-content\plugins\tm-helper-core\elementor\widgets" />
+      <recent name="C:\OSPanel\domains\teamhost\wp-content\plugins\tm-helper-core" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e5c9f21-1d7e-4adb-a360-695e4b89e7c7" name="Default Changelist" comment="" />
+      <created>1657775805227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657775805227</updated>
+      <workItem from="1657775806445" duration="1195000" />
+      <workItem from="1661175689533" duration="29000" />
+      <workItem from="1663263773434" duration="3807000" />
+      <workItem from="1663353693070" duration="735000" />
+      <workItem from="1663740891967" duration="5492000" />
+      <workItem from="1664789712361" duration="6290000" />
+      <workItem from="1664868793751" duration="5194000" />
+      <workItem from="1664909466351" duration="2802000" />
+      <workItem from="1664953046351" duration="4382000" />
+      <workItem from="1664980345564" duration="2192000" />
+      <workItem from="1665057183471" duration="3862000" />
+      <workItem from="1665414522466" duration="532000" />
+      <workItem from="1665947697989" duration="995000" />
+      <workItem from="1666072972461" duration="3004000" />
+      <workItem from="1666160481726" duration="15778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+.fl-vc-counter-wrapper{
+  .fl-counter-wrapper-inner{
+    text-align: center;
+    padding: 45px 15px;
+    position: relative;
+    .fl-counter-list__title{
+      font-size: 14px;
+      margin-bottom: 13px;
+    }
+    .fl-counter-pref-styles{
+      font-size: 30px;
+      .fl-counter{
+        margin: 0 10px;
+      }
+    }
+    &:after{
+      position: absolute;
+      bottom: 5px;
+      left: 5px;
+      border-width: 5px;
+      border-style: solid;
+      content: '';
+    }
+  }
+}

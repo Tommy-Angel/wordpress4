@@ -1,0 +1,38 @@
+.youzify-custom-widget-box.youzify-custom-widget-box-padding{
+  padding: 0px;
+  .fl-gp-box{
+    padding-bottom: 0px;
+  }
+}
+
+
+#youzify{
+  .youzify-content{
+    .tm-autos-top-edit-button, .tm-autos-top-draft-button{
+      color: #222;
+      width: fit-content;
+      display: flex;
+      span{
+        word-break: normal;
+        display: flex;
+      }
+    }
+    .tm-autos-top-edit-button{
+      width: 50%;
+      float: left;
+      background-color: #b9b9b9;
+      &:before{
+        width: fit-content;
+      }
+    }
+    .tm-autos-top-draft-button{
+      justify-content: end;
+      width: 50%;
+    }
+    .uk-alert-success{
+      margin-bottom: 30px;
+      display: block;
+      padding: 15px;
+    }
+  }
+}

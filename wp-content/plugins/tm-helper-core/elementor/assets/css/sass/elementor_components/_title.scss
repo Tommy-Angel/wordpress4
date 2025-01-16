@@ -1,0 +1,7 @@
+.tm_title.icon_disable{
+  span{
+    &:before{
+      content: unset;
+    }
+  }
+}

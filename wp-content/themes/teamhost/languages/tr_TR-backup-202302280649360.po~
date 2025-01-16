@@ -1,0 +1,3081 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: teamhost\n"
+"POT-Creation-Date: 2023-02-28 12:34+0600\n"
+"PO-Revision-Date: 2023-02-28 06:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: tr_TR\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: admin/menu/edit_mega_menu_walker.php:135
+msgid " "
+msgstr ""
+
+#: template-parts/blog-single-page/post-bottom.php:19
+msgid " Comments"
+msgstr ""
+
+#: admin/etc/general.php:1087
+msgid " Day"
+msgstr ""
+
+#: admin/etc/general.php:1085
+msgid " Days"
+msgstr ""
+
+#: admin/etc/general.php:1081
+msgid " Month"
+msgstr ""
+
+#: admin/etc/general.php:1079
+msgid " Months"
+msgstr ""
+
+#: admin/etc/general.php:1075
+msgid " Year"
+msgstr ""
+
+#: admin/etc/general.php:1073
+msgid " Years"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:79
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3665
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3673
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: dokan/vendor-store-info.php:32
+#, php-format
+msgid "%d Review"
+msgid_plural "%d Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/menu/edit_mega_menu_walker.php:90
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:94
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: admin/inc/comments-walker.php:107
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: youzify/activity/index.php:155 youzify/groups/single/activity.php:23
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:74
+#, php-format
+msgid "&ndash; %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:125
+#, php-format
+msgid "1 item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: youzify/groups/single/requests-loop.php:39
+msgid "Accept"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2875
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2761
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/option/activation.php:110
+msgid "Activation"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2468
+msgid "Active"
+msgstr ""
+
+#: youzify/activity/index.php:139
+msgid "Activity secondary navigation"
+msgstr ""
+
+#: admin/admin.php:313
+msgid "Add Friend"
+msgstr ""
+
+#: youzify/activity/post-form.php:94
+msgid "Add Link Title"
+msgstr ""
+
+#: youzify/activity/post-form.php:90
+msgid "Add Link URL"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:12
+msgid "Add New Review:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:139
+msgid "Add Plugins"
+msgstr ""
+
+#: youzify/activity/post-form.php:108
+msgid "Add Quote Owner"
+msgstr ""
+
+#: youzify/activity/post-form.php:112
+msgid "Add Quote Text"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:258
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:19
+msgid "Add to wishlist"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:510
+msgid "Add two or more photos"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:185
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:20
+msgid "Administrators"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:22
+#: admin/option/acf_option/woo/car-listing-page.php:22
+msgid "All"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:94
+msgid "All group members"
+msgstr ""
+
+#: youzify/groups/index.php:37
+#, php-format
+msgid "All Groups %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3666
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3674
+msgid "All installations have been completed."
+msgstr ""
+
+#: youzify/activity/index.php:54 youzify/members/index.php:35
+#, php-format
+msgid "All Members %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: template-parts/header/header_content.php:71
+msgid "All posts from author:"
+msgstr ""
+
+#: template-parts/header/header_content.php:65
+msgid "All posts from:"
+msgstr ""
+
+#: youzify/groups/index.php:76 youzify/members/index.php:71
+msgid "Alphabetical"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3657
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/option/activation.php:53
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:30
+msgid "Any site member can join this group."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:46
+msgid "Apikey"
+msgstr ""
+
+#: template-parts/header/header_content.php:95
+msgid "Archive"
+msgstr ""
+
+#: admin/etc/general.php:162 admin/etc/general.php:359
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: admin/etc/general.php:163 admin/etc/general.php:360
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:64
+msgid "Archive Style"
+msgstr ""
+
+#: admin/etc/general.php:166 admin/etc/general.php:363
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2629
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:266 woocommerce/wishlist-view.php:312
+msgid "Ask for an estimate"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:219
+msgid "Auto Label"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:10
+#: admin/option/acf_option/woo/car-listing-page.php:10
+msgid "Autos Purpose"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:6
+#: admin/option/acf_option/woo/car-listing-page.php:6
+msgid "Autos Purpose Setting"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2657
+msgid "Available version:"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:46
+msgid "Average"
+msgstr ""
+
+#: admin/etc/general.php:397
+msgid "Back to Store"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:261
+#: admin/option/acf_option/page/login_page_option.php:8
+#: admin/option/acf_option/page/page_option.php:232
+msgid "Background Image"
+msgstr ""
+
+#: admin/menu/mega_menu.php:364
+msgid "Background position"
+msgstr ""
+
+#: admin/menu/mega_menu.php:383
+msgid "Background repeat"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:206
+msgid "banned"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:12
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/option/kirki_option/social/social_option.php:94
+msgid "Behance"
+msgstr ""
+
+#: admin/etc/general.php:161 admin/etc/general.php:358
+msgid "Blog"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:68
+msgid "Blog Animation"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:49
+msgid "Blog Archive Header"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:29
+msgid "Blog Archive Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:36
+#: admin/option/kirki_option/page_heading/page_heading_option.php:54
+msgid "Blog Archive Heading Image"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:20
+msgid "Blog Archive Page Title"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:3
+#: admin/option/kirki_option/blog/blog_archive_option.php:41
+msgid "Blog Archive Setting"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:4
+msgid "Blog Post Options"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:13
+msgid "Blog Post Setting"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:11
+msgid "Blog Setting"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_single_option.php:4
+msgid "Blog Single Setting"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Template"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:12
+msgid "Body"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:32
+msgid "Body Preloader color"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:165
+#: admin/option/acf_option/autos/autos-single-option.php:169
+msgid "Booking Car"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:93
+msgid "bounceDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:91
+msgid "bounceIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:94
+msgid "bounceLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:95
+msgid "bounceRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:92
+msgid "bounceUpIn"
+msgstr ""
+
+#: youzify/activity/post-form.php:98
+msgid "Brief Link Description"
+msgstr ""
+
+#: woocommerce/content-single-product.php:121
+msgid "Buy Now"
+msgstr ""
+
+#: template-parts/blog-single-page/post-bottom.php:13
+msgid "By"
+msgstr ""
+
+#: admin/admin.php:310 admin/menu/edit_mega_menu_walker.php:257
+#: woocommerce/wishlist-view.php:45
+msgid "Cancel"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:128
+msgid "Car List Description"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:124
+msgid "Car List Setting"
+msgstr ""
+
+#: template-parts/blog-single-page/post-tags-content.php:17
+msgid "Categories: "
+msgstr ""
+
+#: admin/menu/mega_menu.php:375
+msgid "Center bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:374
+msgid "Center center"
+msgstr ""
+
+#: admin/menu/mega_menu.php:373
+msgid "Center top"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:89
+msgid "Checkout"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:227
+msgid "Child Theme:"
+msgstr ""
+
+#: admin/admin.php:99
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: dokan/store-header.php:120
+msgid "CLOSED"
+msgstr ""
+
+#: youzify/activity/entry.php:67 youzify/activity/entry.php:108
+msgid "Comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: youzify/groups/single/request-membership.php:22
+msgid "Comments (optional)"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:3
+msgid "Community Settings"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:229
+msgid "Copyrights"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:54
+msgid "Crop Image"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:46
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:165
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:101
+#: admin/option/acf_option/blog/blog_single_option.php:372
+#: admin/option/acf_option/page/page_option.php:103
+#: admin/option/acf_option/page/page_option.php:294
+msgid "Custom"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:385
+#: admin/option/acf_option/blog/blog_single_option.php:396
+#: admin/option/acf_option/page/page_option.php:307
+#: admin/option/acf_option/page/page_option.php:318
+msgid "Custom Footer"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:114
+#: admin/option/acf_option/blog/blog_single_option.php:125
+#: admin/option/acf_option/page/page_option.php:116
+#: admin/option/acf_option/page/page_option.php:127
+msgid "Custom Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:42
+#: admin/option/acf_option/page/page_option.php:42
+msgid "Custom Navigator Style"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:224
+#: admin/option/acf_option/page/page_option.php:195
+msgid "Custom Title"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:250
+msgid "Customize"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:251
+msgid "Customize your theme"
+msgstr ""
+
+#: template-parts/header/header_content.php:89
+#, php-format
+msgid "Daily Archive: %s"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:58
+msgid "Dark Theme Switcher"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:218
+msgid "Dashboard"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:122
+msgid "Deactivate Theme"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:70
+msgid "Debug mode"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:39
+#: admin/option/kirki_option/blog/blog_archive_option.php:70
+msgid "Default"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:384
+#: admin/option/acf_option/page/page_option.php:306
+msgid "Default Footer"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:113
+#: admin/option/acf_option/page/page_option.php:115
+msgid "Default Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:41
+#: admin/option/acf_option/page/page_option.php:41
+msgid "Default Navigator"
+msgstr ""
+
+#: youzify/activity/comment.php:62
+msgid "Delete"
+msgstr ""
+
+#: youzify/groups/single/admin/delete-group.php:36
+msgid "Delete Group"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:28
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:286
+msgid "Demo Import"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:241
+#: admin/theme-dashboard/dashboard.php:287
+#: admin/theme-dashboard/dashboard.php:370
+msgid "Demo Install"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:68
+#: youzify/groups/single/admin/manage-members.php:143
+msgid "Demote to Member"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:223
+#: admin/option/kirki_option/navigator/navigator_option.php:89
+#: admin/option/kirki_option/navigator/navigator_option.php:95
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: woocommerce/content-single-product.php:77
+msgid "Developer:"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:212
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:80
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:152
+#: admin/option/acf_option/page/page_option.php:71
+#: admin/option/acf_option/page/page_option.php:183
+#: admin/option/kirki_option/blog/blog_archive_option.php:55
+#: admin/option/kirki_option/blog/blog_archive_option.php:86
+#: admin/option/kirki_option/footer/footer_option.php:20
+#: admin/option/kirki_option/footer/footer_option.php:184
+#: admin/option/kirki_option/general/general_option.php:64
+#: admin/option/kirki_option/navigator/navigator_option.php:32
+#: admin/option/kirki_option/navigator/navigator_option.php:60
+#: admin/option/kirki_option/navigator/navigator_option.php:73
+msgid "Disable"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:417
+#: admin/option/acf_option/page/page_option.php:339
+msgid "Disable Footer"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:146
+#: admin/option/acf_option/page/page_option.php:148
+msgid "Disable Header"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:233
+msgid "Down one"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:94
+msgid "Download App box Text"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:78
+msgid "Download App box Title"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:133
+msgid "Edit Menu Item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:201
+msgid "edit-menu-item-"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:23
+msgid "Email *"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:213
+#: admin/option/acf_option/page/page_option.php:184
+#: admin/option/kirki_option/blog/blog_archive_option.php:56
+#: admin/option/kirki_option/footer/footer_option.php:21
+#: admin/option/kirki_option/footer/footer_option.php:185
+#: admin/option/kirki_option/general/general_option.php:65
+#: admin/option/kirki_option/navigator/navigator_option.php:31
+#: admin/option/kirki_option/navigator/navigator_option.php:59
+#: admin/option/kirki_option/navigator/navigator_option.php:72
+msgid "Enable"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:416
+#: admin/option/acf_option/page/page_option.php:338
+msgid "Enable Footer"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:145
+#: admin/option/acf_option/page/page_option.php:147
+msgid "Enable Header"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "Enter"
+msgstr ""
+
+#: admin/etc/general.php:167 admin/etc/general.php:364
+msgid "Error 404"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:90
+msgid "expandIn"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2442
+msgid "External Source"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:54
+msgid "Facebook"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:81
+msgid "fadeIn"
+msgstr ""
+
+#: youzify/activity/index.php:39 youzify/groups/index.php:30
+#: youzify/groups/index.php:55 youzify/members/index.php:29
+msgid "Filter"
+msgstr ""
+
+#: youzify/activity/index.php:153
+msgid "Filter Activities By :"
+msgstr ""
+
+#: admin/menu/mega_menu.php:406
+msgid "Five columns"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:84
+msgid "flipBounceXIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:85
+msgid "flipBounceYIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:82
+msgid "flipXIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:83
+msgid "flipYIn"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:113
+msgid "Font Style Bolt Style One"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:131
+msgid "Font Style Bolt Style Two"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:149
+msgid "Font Style Lighter Than"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:77
+msgid "Font Style Regular Style One"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:95
+msgid "Font Style Regular Style Two"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:163
+msgid "Font Style Semi Bolt Than"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:181
+msgid "Font Style Testimonial Regular"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:356
+#: admin/option/acf_option/page/page_option.php:278
+#: admin/option/kirki_option/footer/footer_option.php:3
+msgid "Footer"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:112
+msgid "Footer Download App Link one"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:144
+msgid "Footer Download App Link two"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:128
+msgid "Footer Download App Logo one"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:160
+msgid "Footer Download App Logo two"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:178
+msgid "Footer Enable/Disable"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:213
+msgid "Footer Logo Text"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:195
+msgid "Footer Logotype"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:59
+msgid "Footer Mailchimp Form"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:14
+msgid "Footer Newsletter"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:3
+msgid "Footer Social Profile"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:193
+#, php-format
+msgid ""
+"For normal usage will be enough 128M, but for importing demo we recommend "
+"setting memory to at least %s."
+msgstr ""
+
+#: admin/admin.php:251
+msgid "Forgot password"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:27
+msgid "Form Title"
+msgstr ""
+
+#: admin/menu/mega_menu.php:405
+msgid "Four columns"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:170
+msgid "Free!"
+msgstr ""
+
+#: admin/admin.php:307
+msgid "Friendship Requested"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:6
+#: admin/option/acf_option/autos/autos-single-option.php:10
+msgid "Gallery"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:37
+msgid "Gallery \"Promo Images\""
+msgstr ""
+
+#: admin/etc/general.php:877
+msgid "Gaming Community"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Gaming Community."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:189
+msgid "General "
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:67
+msgid "Get Support"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:45
+msgid "Good"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:74
+msgid "Google Plus+"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:40
+#: admin/option/kirki_option/blog/blog_archive_option.php:71
+msgid "Grid"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:96
+msgid "Group admins and mods only"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:98
+msgid "Group admins only"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:32
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:40
+#: youzify/groups/single/admin/group-settings.php:48
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: youzify/groups/single/admin/edit-details.php:25
+msgid "Group Description (required)"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:88
+msgid "Group Invitations"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:26
+msgid "Group Link text"
+msgstr ""
+
+#: youzify/groups/single/admin/edit-details.php:20
+msgid "Group Name (required)"
+msgstr ""
+
+#: youzify/groups/single/activity.php:7 youzify/groups/single/admin.php:7
+msgid "Group secondary navigation"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:64
+msgid "Group Types"
+msgstr ""
+
+#: youzify/groups/index.php:35
+msgid "Groups directory main navigation"
+msgstr ""
+
+#: youzify/groups/index.php:57
+msgid "Groups directory secondary navigation"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:199
+msgid "H1 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:220
+msgid "H2 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:241
+msgid "H3 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:262
+msgid "H4 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:283
+msgid "H5 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:304
+msgid "H6 Size"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Half Page Template"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:85
+#: admin/option/acf_option/page/page_option.php:87
+msgid "Header"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:46
+msgid "Header Login Link"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:35
+#: admin/option/kirki_option/typography/typography_option.php:57
+msgid "Header Titles"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:3
+msgid "Heading Setting"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:85
+msgid "Help?"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:131
+msgid "here"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:393
+msgid "Hi, "
+msgstr "Merhaba, "
+
+#: template-parts/navigation/navigator_content.php:454
+msgid "Hi, User"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3681
+msgid "Hide Details"
+msgstr ""
+
+#: admin/etc/general.php:148
+#: admin/function/woo-function/other_woo_functions.php:14
+msgid "Home"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://teamhost.tm-colors.info"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/tm_colors/portfolio"
+msgstr ""
+
+#: youzify/groups/single/admin/delete-group.php:24
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:101
+msgid "Id"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:86
+msgid ""
+"If you did not find the question interest in our documentation, found an "
+"error, or if you want to suggest something, you can contact technical "
+"support."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:90
+msgid ""
+"If you have any problems, you can look at the online documentation of this "
+"theme, if you have not found a question that interests you, visit our "
+"support forum and ask us a question that interests you, we will be happy to "
+"help you."
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:26
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+
+#: admin/menu/mega_menu.php:347
+msgid "Image"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:507
+msgid "Images"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:176
+msgid "In Stock"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:218
+msgid "Increasing max execution to PHP"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:196
+msgid "Increasing memory allocated to PHP."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:92
+msgid "Info"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:226
+msgid "Information from your theme"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:214
+msgid "Insert Footer Logo Text."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:47
+msgid "Insert Google Maps Apikey."
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:230
+msgid "Insert the Copyrights text."
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:113
+#: admin/option/kirki_option/footer/footer_option.php:145
+msgid "Insert the link."
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:95
+msgid "Insert the text."
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:28
+#: admin/option/kirki_option/footer/footer_option.php:79
+msgid "Insert the Title text."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:84
+msgid "Instagram"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2866
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2750
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:242
+msgid "Install demo content"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:341
+#: admin/theme-dashboard/dashboard.php:129
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:234
+msgid "Install recommended or update your plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:92
+msgid "Install Theme Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2466
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2637
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3668
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3676
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: youzify/groups/single/invites-loop.php:11
+msgid "Invite Your friends"
+msgstr ""
+
+#: youzify/groups/groups-loop.php:147
+msgid "Join Group"
+msgstr ""
+
+#: searchform.php:4
+msgid "keyword"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:233
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:223
+msgid "Label Auto"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:242
+msgid "Label Background"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:100
+msgid "Language ID"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:107
+msgid "Language Image"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:94
+msgid "Language Link URL"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:88
+msgid "Language Title"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:65
+msgid "Language:"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:82
+msgid "Languages"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:68
+msgid "Languages Section"
+msgstr ""
+
+#: youzify/groups/index.php:73 youzify/members/index.php:67
+msgid "Last Active"
+msgstr ""
+
+#: youzify/groups/groups-loop.php:104
+#, php-format
+msgid "Latest active %s"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:23
+msgid "Latest News"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:14
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:153
+#: admin/option/kirki_option/blog/blog_archive_option.php:84
+msgid "Left"
+msgstr ""
+
+#: admin/menu/mega_menu.php:369
+msgid "Left bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:368
+msgid "Left center"
+msgstr ""
+
+#: admin/etc/general.php:35
+msgid "Left Menu"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:339
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/menu/mega_menu.php:367
+msgid "Left top"
+msgstr ""
+
+#: admin/menu/mega_menu.php:398
+msgid "Limit Max columns number"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:456
+msgid "Link"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:171
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:14
+msgid "Linkedin"
+msgstr ""
+
+#: youzify/activity/activity-loop.php:37
+msgid "Load More Posts"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:416
+msgid "Log Out"
+msgstr ""
+
+#: admin/option/acf_option/page/login_page_option.php:4
+msgid "Login Page Options"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:219
+msgid "Main Info"
+msgstr ""
+
+#: admin/etc/general.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:91
+msgid "Main Theme Info"
+msgstr ""
+
+#: youzify/groups/groups-loop.php:128
+msgid "Manage Group"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:56
+msgid "Max Upload File"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:29
+msgid "Max width Logotype"
+msgstr ""
+
+#: youzify/groups/groups-loop.php:90
+msgid "member"
+msgid_plural "members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: youzify/groups/single/admin/manage-members.php:188
+msgid "Members"
+msgstr ""
+
+#: youzify/members/index.php:33
+msgid "Members directory main navigation"
+msgstr ""
+
+#: youzify/members/index.php:53
+msgid "Members directory secondary navigation"
+msgstr ""
+
+#: youzify/activity/index.php:122
+msgid "Mentions"
+msgstr ""
+
+#: youzify/activity/index.php:37 youzify/groups/index.php:28
+#: youzify/members/index.php:27
+msgid "Menu"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:14
+msgid "Menu Style"
+msgstr ""
+
+#: youzify/members/members-loop.php:93
+msgid "Message"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2645
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/etc/general.php:36
+msgid "Mobile Menu"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:158
+msgid "Mobile Menu Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:177
+msgid "Mobile Sub Menu Typography"
+msgstr ""
+
+#: admin/menu/mega_menu.php:355
+msgid "Modal Contact 7 Form Select"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:109
+msgid "Moderators"
+msgstr ""
+
+#: template-parts/header/header_content.php:91
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr ""
+
+#: template-parts/header/header_content.php:91
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:98
+msgid "More Info"
+msgstr ""
+
+#: youzify/groups/index.php:74
+msgid "Most Members"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:231 woocommerce/wishlist-view.php:197
+msgid "Move"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:131
+msgid "Move down"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:118
+msgid "Move up"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:403
+msgid "My Addresses"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:411
+msgid "My Dashboard"
+msgstr ""
+
+#: admin/function/woo-function/other_woo_functions.php:147
+msgid "My Favorites"
+msgstr ""
+
+#: youzify/activity/index.php:107
+#, php-format
+msgid "My Favorites %s"
+msgstr ""
+
+#: youzify/activity/index.php:71 youzify/members/index.php:38
+#, php-format
+msgid "My Friends %s"
+msgstr ""
+
+#: youzify/activity/index.php:90 youzify/groups/index.php:40
+#, php-format
+msgid "My Groups %s"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:402
+msgid "My Orders"
+msgstr ""
+
+#: youzify/activity/post-form.php:171
+msgid "My Profile"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:398
+#: woocommerce/myaccount/navigation.php:53
+msgid "My profile"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:52
+msgid "MySQL server version"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:20
+msgid "Name *"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:151
+msgid "Navigation Label"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:3
+msgid "Navigation Setting"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:120
+msgid "Navigation Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:55
+msgid "Navigation User"
+msgstr ""
+
+#: admin/function/woo-function/archive_function.php:36
+msgid "New"
+msgstr ""
+
+#: youzify/members/members-loop.php:60
+msgid "Newbie"
+msgstr ""
+
+#: comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: youzify/members/index.php:68
+msgid "Newest Registered"
+msgstr ""
+
+#: youzify/groups/index.php:75
+msgid "Newly Created"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:19
+#: admin/theme-dashboard/screens/system_info.php:61
+#: admin/theme-dashboard/screens/system_info.php:71
+msgid "No"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: youzify/activity/post-form.php:135
+msgid "No GIFs found"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:102
+msgid "No group administrators were found."
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:276
+msgid "No group members were found."
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:181
+msgid "No group moderators were found."
+msgstr ""
+
+#: youzify/groups/single/members.php:119
+msgid "No members were found."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3084
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2949
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2951
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2680
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3058
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2906
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:102
+msgid "No Problems"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: dokan/store.php:70
+msgid "No products were found of this vendor!"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:338
+msgid "No Sidebar"
+msgstr ""
+
+#: youzify/activity/post-form.php:70
+msgid "No thumbnail"
+msgstr ""
+
+#: admin/etc/general.php:285 admin/etc/general.php:485
+msgid "No title"
+msgstr ""
+
+#: admin/menu/mega_menu.php:386
+msgid "No-repeat"
+msgstr ""
+
+#: admin/menu/mega_menu.php:401
+msgid "None"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2462
+msgid "Not Installed"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:47
+msgid "Not that bad"
+msgstr ""
+
+#: admin/admin.php:347
+msgid "not yet active"
+msgstr ""
+
+#: 404.php:23 template-parts/content-none.php:19
+msgid "Nothing was found"
+msgstr ""
+
+#: youzify/groups/single/admin/edit-details.php:40
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: youzify/activity/index.php:122
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:31
+msgid "Number of Words in Description"
+msgstr ""
+
+#: youzify/activity/post-form.php:63
+msgid "of"
+msgstr ""
+
+#: comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: admin/menu/mega_menu.php:402
+msgid "One columns"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:80
+msgid "Online Documentation"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:46
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:38
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:160
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: youzify/groups/index.php:70 youzify/members/index.php:65
+msgid "Order By:"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:243
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:97
+msgid "Our Portfolio"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:176
+msgid "Out of Stock"
+msgstr ""
+
+#: admin/etc/general.php:342 admin/etc/general.php:542
+msgid "Page"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:9
+msgid "Page Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:16
+msgid "Page Heading Image"
+msgstr ""
+
+#: 404.php:12
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:4
+#: admin/option/acf_option/page/page_option.php:4
+msgid "Page Options"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:8
+msgid "Page Preloader"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:9
+msgid "Page Preloader Seating"
+msgstr ""
+
+#: docspress/archive/page.php:65 docspress/single/page.php:37
+#: template-parts/content-page.php:20 template-parts/content.php:10
+msgid "Pages:"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "Password"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:44
+msgid "Perfect"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:105
+msgid "perspectiveDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:106
+msgid "perspectiveLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:107
+msgid "perspectiveRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:104
+msgid "perspectiveUpIn"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:206
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:48
+msgid "PHP Version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:163
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:64
+msgid "Pinterest"
+msgstr ""
+
+#: woocommerce/content-single-product.php:84
+msgid "Platforms:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1041
+#: admin/tgm/class-tgm-plugin-activation.php:1051
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:95
+msgid "Please register your theme for install all demo content and plugins."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2694
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1242
+#: admin/tgm/class-tgm-plugin-activation.php:3098
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:400
+#: admin/tgm/class-tgm-plugin-activation.php:3310
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3309
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:233
+msgid "Plugin Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2535
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: youzify/activity/entry.php:115 youzify/activity/post-form.php:194
+msgid "Post"
+msgstr ""
+
+#: comments.php:82
+msgid "Post a Reply"
+msgstr ""
+
+#: admin/inc/template-tags.php:22
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: admin/inc/template-tags.php:19
+#, php-format
+msgctxt "post date"
+msgid "%s %s"
+msgstr ""
+
+#: youzify/activity/post-form.php:169
+msgid "Post in:"
+msgstr ""
+
+#: single-streams.php:91 single.php:74
+msgid "Post Pages:"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:49
+msgid "Post per page"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:27
+msgid "Post Style"
+msgstr ""
+
+#: youzify/groups/groups-loop.php:83
+msgid "Posts"
+msgstr ""
+
+#: admin/etc/general.php:165 admin/etc/general.php:362
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:155
+msgid "Pre title"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2445
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:56
+msgid "Preloader progress Background Color"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:127
+msgid "Primary Additional Color"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:11
+msgid "Primary Color Setting"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:23
+msgid "Privacy Options"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:212
+msgid "Private"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: admin/option/acf_option/woo/woo-single-option.php:6
+msgid "Product Meta"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:82
+msgid "Product Name"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:42
+msgid "Products per page"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:165
+#: template-parts/navigation/navigator_content.php:183
+#: template-parts/navigation/navigator_content.php:208
+#: template-parts/navigation/navigator_content.php:227
+#: template-parts/navigation/navigator_content.php:259
+#: template-parts/navigation/navigator_content.php:276
+#: template-parts/navigation/navigator_content.php:301
+#: template-parts/navigation/navigator_content.php:319
+#: template-parts/navigation/navigator_content.php:438
+msgid "profile"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:51
+msgid "Profile photo preview"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:48
+msgid "Profile photo to crop"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:399
+msgid "Profile Settings"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:142
+#: youzify/groups/single/admin/manage-members.php:235
+msgid "Promote to Admin"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:234
+msgid "Promote to Mod"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:215
+msgid "Public"
+msgstr ""
+
+#: admin/admin.php:364
+msgid "Published Today"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:87
+msgid "raise"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:43
+msgid "Rate&hellip;"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:28
+msgid "Read More"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:196
+#, php-format
+msgid "Read more: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Recommended"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:133
+msgid "Register Code"
+msgstr ""
+
+#: youzify/groups/single/requests-loop.php:41
+msgid "Reject"
+msgstr ""
+
+#: woocommerce/content-single-product.php:69
+msgid "Release date:"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:111
+msgid ""
+"Reminder ! One registration per Website. If registered elsewhere please "
+"remove purchased code that registration first."
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:256 woocommerce/wishlist-view.php:229
+msgid "Remove"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:229
+msgid "Remove Ban"
+msgstr ""
+
+#: youzify/groups/single/admin/manage-members.php:239
+msgid "Remove from group"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:204
+msgid "Remove Image"
+msgstr ""
+
+#: youzify/groups/single/invites-loop.php:67
+msgid "Remove Invite"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:152 woocommerce/wishlist-view.php:229
+msgid "Remove this product"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:54
+msgid "Renew Support"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:23
+#: admin/option/acf_option/woo/car-listing-page.php:23
+msgid "Rent"
+msgstr ""
+
+#: admin/menu/mega_menu.php:387
+msgid "Repeat"
+msgstr ""
+
+#: admin/menu/mega_menu.php:388
+msgid "Repeat-x"
+msgstr ""
+
+#: admin/menu/mega_menu.php:389
+msgid "Repeat-y"
+msgstr ""
+
+#: youzify/activity/comment.php:56
+msgid "Reply"
+msgstr ""
+
+#: youzify/groups/single/requests-loop.php:58
+msgid "Request Comment"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2474
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:100
+msgid "Requirements"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2477
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: template-parts/woo-empty.php:31
+msgid "Return To Shop"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: woocommerce/content-single-product.php:60
+msgid "Reviews:"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:154
+#: admin/option/kirki_option/blog/blog_archive_option.php:85
+msgid "Right"
+msgstr ""
+
+#: admin/menu/mega_menu.php:372
+msgid "Right bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:371
+msgid "Right center"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:340
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/menu/mega_menu.php:370
+msgid "Right top"
+msgstr ""
+
+#: youzify/groups/single/activity.php:9
+msgid "RSS"
+msgstr ""
+
+#: youzify/groups/single/activity.php:9
+msgid "RSS Feed"
+msgstr ""
+
+#: admin/function/woocommerce.php:97
+#, php-format
+msgid "Sale %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr ""
+
+#: youzify/groups/single/admin/edit-details.php:53
+#: youzify/groups/single/admin/group-settings.php:113
+msgid "Save Changes"
+msgstr ""
+
+#: comments.php:91
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: 404.php:33 template-parts/content-none.php:29
+#: template-parts/footer/footer-component/content-search.php:10
+#: youzify/activity/index.php:38 youzify/groups/index.php:29
+#: youzify/groups/index.php:54 youzify/members/index.php:28
+msgid "Search"
+msgstr ""
+
+#: youzify/activity/index.php:177
+msgid "Search Activities ..."
+msgstr ""
+
+#: youzify/activity/post-form.php:130
+msgid "Search for GIFs..."
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:27
+msgid "Search in Header"
+msgstr ""
+
+#: template-parts/footer/footer-component/content-search.php:8
+msgid "Search keyword ..."
+msgstr ""
+
+#: admin/etc/general.php:164 admin/etc/general.php:361
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: template-parts/header/header_content.php:83
+msgid "Search results for:"
+msgstr ""
+
+#: 404.php:30 template-parts/content-none.php:26
+msgid "Search..."
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:241
+msgid "Secondary Additional Color"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:184
+msgid "Secondary Color Setting"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:218
+#, php-format
+msgid "See more: %s"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:17
+msgid "Select an image"
+msgstr ""
+
+#: youzify/groups/single/invites-loop.php:103
+msgid "Select friends to invite."
+msgstr ""
+
+#: admin/menu/mega_menu.php:340
+msgid "Select Icon"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:66
+msgid "Select the types this group should be a part of."
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:13
+#: admin/option/acf_option/woo/car-listing-page.php:13
+msgid "Select which cars to display on the page"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:24
+#: admin/option/acf_option/woo/car-listing-page.php:24
+msgid "Sell"
+msgstr ""
+
+#: comments.php:104
+msgid "Send Comment"
+msgstr ""
+
+#: youzify/groups/single/request-membership.php:36
+msgid "Send Request"
+msgstr ""
+
+#: youzify/groups/single/invites-loop.php:35
+msgid "Sent Invites"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:734
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:4
+msgid "Setting Community Pages"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:4
+msgid "Setting Wooccomerce Archive Page"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:209
+msgid "Shared"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3681
+msgid "Show Details"
+msgstr ""
+
+#: youzify/groups/single/activity.php:21
+msgid "Show:"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:89
+msgid "shrinkIn"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:302
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:140
+msgid "Sidebar"
+msgstr ""
+
+#: admin/option/sidebar.php:7
+msgid "Sidebar Logo"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:318
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:78
+msgid "Sidebar position"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:124
+msgid "Sidebar Setting"
+msgstr ""
+
+#: admin/admin.php:250
+msgid "Sign in"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:6
+msgid "Site Logo"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:30
+msgid "Site logo width in px."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:17
+msgid "Site Mobile menu Logo"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:19
+msgid "Site Preloader"
+msgstr ""
+
+#: youzify/activity/index.php:43
+msgid "Sitewide activities navigation"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:101
+msgid "slideDownBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:97
+msgid "slideDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:110
+msgid "slideInLeftVeryBig"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:109
+msgid "slideInRightVeryBig"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:102
+msgid "slideLeftBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:98
+msgid "slideLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:103
+msgid "slideRightBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:99
+msgid "slideRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:100
+msgid "slideUpBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:96
+msgid "slideUpIn"
+msgstr ""
+
+#: admin/option/acf_option/autos/car-listing-page.php:25
+#: admin/option/acf_option/woo/car-listing-page.php:25
+msgid "Sold"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:101
+msgid "Some Problems"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: youzify/members/members-loop.php:142
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: youzify/activity/activity-loop.php:51
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: 404.php:24 template-parts/content-none.php:20
+msgid "Sorry, we can't find the page you are looking for."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2695
+msgid "Source"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:32
+msgid "Specify the Number of Words for Description blog per post."
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:23
+msgid "Specify the pre title for WooCommerce Pages"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:43
+msgid "Specify the products per page count. by default it is 9"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:21
+msgid "Specify the title for Blog archive page"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:33
+msgid "Specify the title for WooCommerce pages"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2701
+msgid "Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:102
+msgid "Stock Status"
+msgstr ""
+
+#: dokan/store-header.php:18
+msgid "Store Closed"
+msgstr ""
+
+#: dokan/store-header.php:17
+msgid "Store Open"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:20
+msgid "Style Default"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:21
+msgid "Style Left Menu"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:71
+#: admin/option/acf_option/page/page_option.php:72
+msgid "Style One"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:72
+#: admin/option/acf_option/page/page_option.php:73
+msgid "Style Two"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:103
+msgid "sub item"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:139
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: admin/option/acf_option/autos/autos-single-option.php:85
+msgid "Sub Title Content"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:26
+#: admin/function/woo-function/single_function.php:31
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:567
+msgid "Supported YouTube and Vimeo links"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:86
+msgid "swoopIn"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:199
+#: admin/theme-dashboard/dashboard.php:200
+#: admin/theme-dashboard/dashboard.php:225
+#: admin/theme-dashboard/screens/system_info.php:9
+msgid "System Info"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:22
+msgid "System Info Dashboard Image"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:99
+msgid "System Information"
+msgstr ""
+
+#: template-parts/header/header_content.php:77
+msgid "Tagged to:"
+msgstr ""
+
+#: template-parts/blog-single-page/post-tags-content.php:6
+msgid "Tags: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Teamhost"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2111
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:92
+msgid ""
+"Thank for activation theme now install theme plugins and you can install the "
+"demo content"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:119
+msgid ""
+"Thank you for purchasing our theme. If you liked the our theme please put 5 "
+"stars rating to it."
+msgstr ""
+
+#: youzify/groups/single/admin/group-cover-image.php:19
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:225
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#: admin/tgm/class-tgm-plugin-activation.php:3102
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3663
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3671
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1051
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1041
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/option/activation.php:110 admin/theme-dashboard/dashboard.php:106
+msgid "Theme activated"
+msgstr ""
+
+#: admin/option/activation.php:109 admin/theme-dashboard/dashboard.php:105
+msgid "Theme activation"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:79
+msgid "Theme Dashboard"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:88
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:95
+msgid "Theme Link"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:34
+msgid "Theme Name"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:107
+msgid "Theme not activated"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:42
+msgid "Theme Slug"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:3
+msgid "Theme Style"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:84
+msgid "Theme Support"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:38
+msgid "Theme Version"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:103
+msgid "Themes Changelog"
+msgstr ""
+
+#: youzify/groups/single/requests-loop.php:85
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: youzify/groups/groups-loop.php:188
+msgid "There were no groups found."
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:287
+msgid "Third Additional Color"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:263
+msgid "Third Color Setting"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:31
+#: youzify/groups/single/admin/group-settings.php:39
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:47
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:43
+msgid "This is a hidden group"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:35
+msgid "This is a private group"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:27
+msgid "This is a public group"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:65
+msgid ""
+"This theme comes with 6 months of free support for every license you "
+"purchase. Support can be extended through subscriptions via ThemeForest. "
+"Envato Elements does not provide technical support for this theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/menu/mega_menu.php:404
+msgid "Three columns"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:187
+#: admin/option/acf_option/page/page_option.php:158
+msgid "Title Header Enable Disable Function"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TM_Colors"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2547
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2539
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/menu/edit_mega_menu_walker.php:236
+msgid "To the top"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "To view this protected post, enter the password below"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:89
+msgid "Tutorial"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:44
+msgid "Twitter"
+msgstr ""
+
+#: admin/menu/mega_menu.php:403
+msgid "Two columns"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2696
+msgid "Type"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:3
+msgid "Typography"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:52
+msgid ""
+"Unfortunately, your support period is expired but you can renew your support "
+"period  "
+msgstr ""
+
+#: admin/admin.php:304
+msgid "Unfriend"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:89
+msgid "Unit Price"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:232
+msgid "Up one"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2872
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2755
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2543
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2480
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3654
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2833
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: youzify/groups/single/admin/group-avatar.php:12
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+
+#: youzify/activity/post-form.php:157
+msgid "Upload Attachment"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:203
+#: youzify/groups/single/admin/group-avatar.php:20
+msgid "Upload Image"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:129
+#: admin/option/kirki_option/footer/footer_option.php:161
+#: admin/option/kirki_option/footer/footer_option.php:196
+msgid "Upload image"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:108
+msgid "Upload Language Image."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:18
+msgid "Upload mobile menu logo."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:7
+msgid "Upload site logo."
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:144
+msgid "URL"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:12
+msgid "Use a button link to the group page"
+msgstr ""
+
+#: admin/admin.php:100
+msgid "Use this image"
+msgstr ""
+
+#: admin/function/woo-function/archive_function.php:135
+msgid "user"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:32
+msgid "Vendor Shop"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2700
+msgid "Version"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:48
+msgid "Very poor"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:564
+msgid "Video Link"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "View Cart"
+msgstr ""
+
+#: youzify/activity/entry.php:57
+msgid "View Conversation"
+msgstr ""
+
+#: youzify/members/members-loop.php:100
+msgid "View profile"
+msgstr ""
+
+#: woocommerce/cart_link.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: admin/function/woo-function/other_woo_functions.php:141
+msgid "View your wishlist"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:24
+msgid "Vimeo"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:87
+msgid "Visit Support Center"
+msgstr ""
+
+#: youzify/groups/single/admin/delete-group.php:20
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:216
+#, php-format
+msgid "We recommend setting max execution time to at least %s."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:174
+#, php-format
+msgid "We recommend upgrade php version to at least %s."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:235
+msgid ""
+"We recommend use child theme to prevent loosing your customizations after "
+"theme update."
+msgstr ""
+
+#: dokan/store-header.php:119
+msgid "Weekly Store Timing"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:269
+msgid "Welcome"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:250
+#: admin/theme-dashboard/screens/welcome.php:281
+msgid "Welcome-banner"
+msgstr ""
+
+#: youzify/activity/post-form.php:22
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: youzify/activity/post-form.php:24
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: youzify/groups/single/admin/group-settings.php:90
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:88
+msgid "whirlIn"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:14
+msgid "WooCommerce ACrhive Heading Image"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:3
+msgid "WooCommerce Archive Setting"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:32
+msgid "WooCommerce Page Title"
+msgstr ""
+
+#: admin/option/kirki_option/woo/woo_archive_option.php:22
+msgid "WooCommerce Pre Title"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2439
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:30
+msgid "WordPress Version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:183
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:60
+msgid "WP Multisite:"
+msgstr ""
+
+#: youzify/activity/entry.php:110
+msgid "Write a Comment ..."
+msgstr ""
+
+#: template-parts/header/header_content.php:93
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr ""
+
+#: template-parts/header/header_content.php:93
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: admin/option/kirki_option/community/community_option.php:18
+#: admin/theme-dashboard/screens/system_info.php:61
+#: admin/theme-dashboard/screens/system_info.php:71
+msgid "Yes"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:116
+msgid ""
+"You  will can later deactivate this code if you use dev site and using again "
+"on live version."
+msgstr ""
+
+#: youzify/groups/single/request-membership.php:17
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:115
+msgid "You can learn how to find your purchase code"
+msgstr ""
+
+#: template-parts/woo-empty.php:24
+msgid "You may check out all the available products and buy some in the shop."
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:38
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:95
+msgid "Your Behance profile URL."
+msgstr ""
+
+#: template-parts/woo-empty.php:4
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: admin/option/activation.php:110
+msgid "Your code"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:112
+msgid "Your code is:"
+msgstr ""
+
+#: admin/inc/comments-walker.php:92
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:302
+msgid "Your email"
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:55
+msgid "Your Facebook profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:75
+msgid "Your Google Plus+ profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:85
+msgid "Your Instagram profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:15
+msgid "Your Linkedin profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:65
+msgid "Your Pinterest profile URL."
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:42
+msgid "Your rating"
+msgstr ""
+
+#: admin/function/woo-function/single_function.php:53
+msgid "Your review *"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:49
+msgid "Your support has expired. "
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:45
+msgid "Your twitter profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:25
+msgid "Your Vimeo profile URL."
+msgstr ""
+
+#: template-parts/woo-empty.php:7
+msgid "Your wishlist is currently empty."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:35
+msgid "Your YouTube profile URL."
+msgstr ""
+
+#: admin/option/kirki_option/social/social_option.php:34
+msgid "YouTube"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:47
+msgid "Youzify Login page Heading"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:108
+msgid "zoomIn"
+msgstr ""

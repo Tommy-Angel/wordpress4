@@ -1,0 +1,117 @@
+.fl-home-page-posts-content-vc{
+  .home-page-post-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    .blog-post-home-page{
+      width: 33.3333%;
+      a{
+
+        color: #253241;
+        transition: .3s ease;
+        &:hover{
+          color: #d01818;
+          transition: .3s ease;
+        }
+      }
+      .post-entry-content{
+        padding: 0 15px;
+        .post-holder{
+          margin-bottom: 25px;
+        }
+        .post-info{
+          opacity: .75;
+          display: flex;
+          margin-bottom: 15px;
+          line-height: 1;
+          font-size: 11px;
+          text-transform: uppercase;
+          .post-date-info-content{
+            margin-right: 10px;
+            padding-right: 10px;
+            border-right: 1px solid #253241;
+          }
+          .post-author-info-content{
+            .author-prefix{
+              margin-right: 3px;
+            }
+          }
+        }
+        .post-title{
+          margin-bottom: 10px;
+          a{
+            font-size: 17px;
+          }
+        }
+        .post-bottom-content{
+          margin-bottom: 25px;
+          opacity: .8;
+        }
+        .bottom-link-post-content{
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          .left-content{
+            flex-grow: 1;
+            .post-link{
+              font-size: 12px;
+              text-transform: uppercase;
+              position: relative;
+              padding-bottom: 8px;
+              transition: .2s ease-out;
+              &:before{
+                transition: transform .2s ease-out .2s;
+                transform: scaleX(1);
+                transform-origin: left;
+                width: 100%;
+                height: 2px;
+                content: '';
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                z-index: 1;
+                background-color: #253241;
+              }
+              &:after{
+                background-color: #d01818;
+                content: '';
+                transform: scaleX(0);
+                transition: transform .2s ease-out;
+                transform-origin: right;
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                height: 2px;
+                z-index: 2;
+              }
+              &:hover{
+                &:before{
+                  transition: transform .2s ease-out;
+                  transform: scaleX(0);
+                  transform-origin: right;
+                }
+                &:after{
+                  transform: scaleX(1);
+                  transform-origin: left;
+                }
+              }
+            }
+          }
+          .right-content{
+            position: relative;
+            top: 2px;
+            flex-grow: 0;
+            font-size: 12px;
+            i{
+              font-size: 14px;
+              margin-right: 5px;
+              position: relative;
+              top: 2px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

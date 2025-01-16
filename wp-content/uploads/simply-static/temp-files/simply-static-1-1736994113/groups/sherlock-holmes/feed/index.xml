@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UPF Gaming | Sherlock Holmes | Activity</title>
+	<link>/groups/sherlock-holmes/</link>
+	<atom:link href="/groups/sherlock-holmes/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for the group, Sherlock Holmes.</description>
+	<lastBuildDate>Thu, 16 Jan 2025 02:20:49 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">7c65088c0f511404aea9eff847063ae6</guid>
+				<title>Jason Chaffetz joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/210/</link>
+				<pubDate>Thu, 02 Jan 2025 22:22:42 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">b2c6ae6b853292d04f4a92db233b0fb7</guid>
+				<title>Mamah Cheney joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/211/</link>
+				<pubDate>Thu, 02 Jan 2025 12:21:30 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">c2edca6e7245ecc5f18a06b6c3d467c3</guid>
+				<title>Shan Foster joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/208/</link>
+				<pubDate>Tue, 31 Dec 2024 12:57:29 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">6a9870882fa9329fbf6f2aedc88290c9</guid>
+				<title>Ralph Fiennes joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/207/</link>
+				<pubDate>Sun, 29 Dec 2024 05:19:59 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">5f2db8f31db8325dfae6a0ffc36e40c8</guid>
+				<title>Ron Faucheux joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/206/</link>
+				<pubDate>Wed, 25 Dec 2024 16:48:46 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">f7a72628511d125b22bee331a7a28815</guid>
+				<title>Dan Cortese joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/213/</link>
+				<pubDate>Tue, 24 Dec 2024 19:47:15 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">ab306bffb8d9905c53873b586f5259bf</guid>
+				<title>Kiki Cuyler joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/205/</link>
+				<pubDate>Sun, 22 Dec 2024 10:05:54 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">654c68f2011e68ea19db3607104b1ff6</guid>
+				<title>Cecelia Cichan joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/212/</link>
+				<pubDate>Sat, 21 Dec 2024 08:06:59 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">1ff62b96850aa8aaec7429f8445bf596</guid>
+				<title>Wynonna Judd joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/209/</link>
+				<pubDate>Tue, 17 Dec 2024 12:25:42 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">9bc9d387fcc3e3a56156e35d8434ac05</guid>
+				<title>Andre Dubus joined the group Sherlock Holmes</title>
+				<link>/activity-2/p/214/</link>
+				<pubDate>Fri, 13 Dec 2024 05:01:42 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">7e58fd268e10fde5e15038a71d24d954</guid>
+				<title>Kiki Cuyler posted an update in the group Sherlock Holmes: If a man does his best, what else is there? (General George S. Patton)</title>
+				<link>/activity-2/p/592/</link>
+				<pubDate>Tue, 10 Dec 2024 18:29:05 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="activity-inner"><p>If a man does his best, what else is there? (General George S. Patton)</p>
+</div>]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>

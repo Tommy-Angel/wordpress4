@@ -1,0 +1,103 @@
+.info-card.--accent .info-card__progress .progress-item h6,
+.info-card.--accent .info-card__progress .progress-item span {
+  color: #fff;
+}
+.info-card.--accent .info-card__progress .progress-item progress {
+  height: 8px;
+  margin: 0 20px;
+  border-radius: 0;
+  background-color: #fff;
+}
+.info-card.--accent .info-card__progress .progress-item progress::-webkit-progress-bar {
+  border-radius: 0;
+  background-color: #fff;
+}
+.info-card.--accent .info-card__progress .progress-item progress::-webkit-progress-value {
+  border-radius: 0;
+  background-color: #555;
+}
+
+
+
+
+.progress-item {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.progress-item + .progress-item {
+  margin-top: 15px;
+}
+.progress-item h6 {
+  min-width: 140px;
+  margin: 0;
+  color: #222;
+  font-size: 16px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.progress-item progress {
+  height: 8px;
+  margin: 0 20px;
+  border-radius: 0;
+  background-color: #555;
+}
+.progress-item progress::-webkit-progress-bar {
+  border-radius: 0;
+  background-color: #555;
+}
+.progress-item progress::-webkit-progress-value {
+  border-radius: 0;
+  background-color: #efb007;
+}
+.progress-item span {
+  color: #222;
+  font-size: 16px;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+
+.fl-progress-bar{
+  .fl-tracking-progress-bar{
+    width: 100%;
+    background-color: #fff;
+    margin: 0 20px;
+    .fl-tracking-progress-bar__item{
+      height: 8px;
+      border-radius: 0;
+      background-color: #555;
+      margin: 0px;
+    }
+  }
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+  .fl-progress-bar .fl-tracking-progress-bar{
+    margin: 0px;
+  }
+  .progress-item {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .progress-item + .progress-item {
+    margin-top: 10px;
+  }
+  .progress-item h6 {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  .progress-item progress {
+    width: calc(100% - 50px);
+    margin: 0 10px 0 0 !important;
+  }
+}

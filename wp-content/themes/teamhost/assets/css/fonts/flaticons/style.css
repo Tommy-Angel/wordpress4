@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'flaticons';
+  src:  url('fonts/flaticons.eot?m0nk7');
+  src:  url('fonts/flaticons.eot?m0nk7#iefix') format('embedded-opentype'),
+    url('fonts/flaticons.ttf?m0nk7') format('truetype'),
+    url('fonts/flaticons.woff?m0nk7') format('woff'),
+    url('fonts/flaticons.svg?m0nk7#flaticons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ico_"], [class*=" ico_"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'flaticons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico_alert:before {
+  content: "\e900";
+}
+.ico_bell:before {
+  content: "\e901";
+}
+.ico_chat-1:before {
+  content: "\e902";
+}
+.ico_chat:before {
+  content: "\e903";
+}
+.ico_mic:before {
+  content: "\e904";
+}
+.ico_add:before {
+  content: "\e905";
+}
+.ico_config:before {
+  content: "\e906";
+}
+.ico_award:before {
+  content: "\e907";
+}
+.ico_pin:before {
+  content: "\e908";
+}
+.ico_award1:before {
+  content: "\e909";
+}
+.ico_file:before {
+  content: "\e90a";
+}
+.ico_pic:before {
+  content: "\e90b";
+}
+.ico_camera:before {
+  content: "\e90c";
+}
+.ico_camera1:before {
+  content: "\e90d";
+}
+.ico_computer:before {
+  content: "\e90e";
+}
+.ico_computer1:before {
+  content: "\e90f";
+}
+.ico_wallet:before {
+  content: "\e910";
+}
+.ico_calendar:before {
+  content: "\e911";
+}
+.ico_bell1:before {
+  content: "\e912";
+}
+.ico_right:before {
+  content: "\e913";
+}
+.ico_left:before {
+  content: "\e914";
+}
+.ico_bank:before {
+  content: "\e915";
+}
+.ico_clock:before {
+  content: "\e916";
+}
+.ico_off:before {
+  content: "\e917";
+}
+.ico_love:before {
+  content: "\e918";
+}
+.ico_music:before {
+  content: "\e919";
+}
+.ico_file1:before {
+  content: "\e91a";
+}
+.ico_file2:before {
+  content: "\e91b";
+}
+.ico_music1:before {
+  content: "\e91c";
+}
+.ico_home:before {
+  content: "\e91d";
+}
+.ico_email:before {
+  content: "\e91e";
+}
+.ico_email1:before {
+  content: "\e91f";
+}
+.ico_video:before {
+  content: "\e920";
+}
+.ico_report:before {
+  content: "\e921";
+}

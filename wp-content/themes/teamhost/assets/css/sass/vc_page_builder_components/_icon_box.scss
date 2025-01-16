@@ -1,0 +1,135 @@
+.fl-vc-icon-box{
+  // Style One
+  .icon-box-style-one{
+    text-align: center;
+    .top-content{
+      margin-bottom: 30px;
+      i{
+        font-size: 60px;
+      }
+    }
+    .bottom-content{
+      .icon-title-content{
+        font-size: 15px;
+        line-height: 1.4;
+        margin-bottom: 0;
+      }
+    }
+  }
+  // Style Two
+  .icon-box-style-two{
+    transition: .3s ease;
+    position: relative;
+    padding: 55px 40px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 0 12px 8px rgba(129, 129, 129, 0.06);
+    &:after{
+      position: absolute;
+      bottom: 5px;
+      left: 5px;
+      border-width: 7px;
+      border-style: solid;
+      border-color: transparent;
+      content: '';
+    }
+    .top-content{
+      margin-bottom: 35px;
+      i{
+        font-size: 60px;
+      }
+    }
+    .bottom-content{
+      .icon-title-content{
+        font-size: 18px;
+        line-height: 1.4;
+        margin-bottom: 17px;
+      }
+    }
+    &.primary-icon-box-style{
+        i{
+          color: #fff;
+        }
+      .icon-title-content{
+        color: #fff;
+      }
+      .bottom-content{
+        color: #fff;
+      }
+    }
+  }
+  // Style Three
+  .icon-box-style-three{
+    text-align: center;
+    .top-content{
+      margin-bottom: 25px;
+      i{
+        font-size: 50px;
+      }
+    }
+    .bottom-content-wrap{
+      .icon-title-content{
+        text-transform: uppercase;
+        max-width: 180px;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 17px;
+      }
+      .bottom-content{
+        max-width: 280px;
+        margin: 0 auto;
+        opacity: .8;
+      }
+    }
+  }
+}
+
+// Icon Box Contact
+.fl-vc-contact-icon-box{
+  .contact-icon-box-container{
+    text-align: center;
+    position: relative;
+    padding: 65px 15px 35px;
+    .top-content{
+      transform: translate3d(-50%, -50%, 0);
+      top: 0;
+      left: 50%;
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      i{
+        color: #fff;
+        font-size: 25px;
+      }
+    }
+    .bottom-content{
+      .icon-title-content{
+        font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 10px;
+      }
+      .icon-bottom-content{
+        font-size: 14px;
+        a{
+          color: inherit;
+          transition: .3s ease;
+          &:hover{
+            transition: .3s ease;
+          }
+        }
+      }
+    }
+    &:after{
+      position: absolute;
+      bottom: 5px;
+      left: 5px;
+      border-width: 5px;
+      border-style: solid;
+      content: '';
+    }
+  }
+}

@@ -1,0 +1,181 @@
+.fl-vc-testimonial-slider-wrapper{
+  .icon-testimonial-wrap{
+    color: #fff;
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    i{
+      color: #fff;
+      margin: 0 15px;
+      font-size: 20px;
+    }
+    span{
+      position: relative;
+      top: 1px;
+      height: 1px;
+      background: #cccccc;
+      width: 30px;
+    }
+  }
+  .testimonial-slider{
+    .slick-slide{
+      float: left;
+    }
+    // Style One
+    &.testimonial-style-one{
+      max-width: 1565px;
+      margin: 0 auto;
+      .testimonial-slide{
+        color: #fff;
+        padding:  0 15px;
+        // Top Content
+        .top-slider-content{
+          border-radius: 3px;
+          background: #34404e;
+          padding: 40px 35px;
+          padding-bottom: 32px;
+          line-height: 32px;
+          font-size: 15px;
+          position: relative;
+          &:after{
+            position: absolute;
+            top: 100%;
+            right: 21%;
+            border-width: 15px;
+            border-style: solid;
+            border-color: #34404e transparent transparent #34404e;
+            content: '';
+          }
+        }
+        // Bottom Content
+        .bottom-content{
+          padding-top: 50px;
+          text-align: right;
+          .bottom-entry-content{
+            display: inline-flex;
+            align-items: center;
+            padding-right: 24%;
+            .testimonial-slider-name{
+              font-size: 16px;
+            }
+            .testimonial-slider-under-name{
+              margin-top: 4px;
+              line-height: 1;
+              color: #a9aeb3;
+              font-size: 11px;
+              text-transform: uppercase;
+            }
+            .testimonial-slider-image{
+              margin-left: 15px;
+              img{
+                max-width: 55px;
+                border-radius: 100%;
+              }
+            }
+          }
+        }
+        &.slick-current{
+          .top-slider-content{
+            background: #fff;
+            color: #333333;
+            &:after{
+              border-color: #ffffff transparent transparent #ffffff;
+            }
+          }
+        }
+      }
+      .slick-dots{
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 0;
+        li{
+          display: inline-flex;
+          list-style: none;
+          padding: 0;
+          background: none;
+          margin: 0 10px;
+          button{
+            transition: .3s ease;
+            padding: 0;
+            background: transparent;
+            border: 2px solid rgba(255,255,255,.45);
+            width: 12px;
+            height: 12px;
+            text-indent: -9999999px;
+            border-radius: 50%;
+          }
+          &.slick-active,&:hover{
+            button{
+              transition: .3s ease;
+            }
+          }
+        }
+      }
+    }
+    // Style Two
+    &.testimonial-style-two{
+      margin: 0 -15px;
+      .slide-content{
+        padding: 0 15px;
+        .top-slider-content{
+          position: relative;
+          padding: 50px;
+          &:after{
+            position: absolute;
+            top: 100%;
+            left: 67px;
+            border-width: 15px;
+            border-style: solid;
+            content: '';
+          }
+        }
+        .bottom-slider-content{
+          padding-top: 40px;
+          padding-left: 70px;
+          .slider-name-content{
+            color: #253241;
+            font-size: 14px;
+          }
+          .slider-under-name-content{
+            line-height: 1;
+            margin-top: 3px;
+            font-size: 12px;
+            text-transform: uppercase;
+          }
+        }
+      }
+      .slick-dots{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin-bottom: 0;
+        padding-right: 10px;
+        li{
+          list-style: none;
+          margin:  0 5px;
+          button{
+            border: 2px solid #e7e8ec;
+            height: 10px;
+            width: 10px;
+            padding: 0;
+            margin: 0;
+            background: #eeeeee;
+            text-indent: -999999px;
+            border-radius: 50%;
+            transition: .3s ease;
+          }
+          &.slick-active,&:hover{
+            button{
+              transition: .3s ease;
+            }
+          }
+        }
+      }
+    }
+  }
+}

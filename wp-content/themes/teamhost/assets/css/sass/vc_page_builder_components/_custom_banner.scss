@@ -1,0 +1,50 @@
+.fl-custom-banner-content-vc{
+  .fl-custom-banner-container{
+    position: relative;
+    .custom-banner-entry-content{
+      color: #fff;
+      padding: 154px 0 55px;
+      background-repeat: no-repeat;
+      background-position: 50%;
+      background-size: contain;
+      text-align: center;
+      .banner-title{
+        font-size: 22px;
+        line-height: 1.6;
+        margin-bottom: 15px;
+      }
+      .banner-content{
+        .custom_banner-vc-link{
+          color: #fff;
+          transition: .3s ease;
+          border-bottom: 1px dotted #fff;
+          &:hover{
+            opacity: .8;
+            transition: .3s ease;
+          }
+        }
+      }
+    }
+    &.left-custom-banner-style{
+      &:before{
+        position: absolute;
+        border-width: 17px;
+        border-style: solid;
+        content: '';
+        bottom: 0;
+        left: 0;
+        border-color: transparent transparent #fff #fff;
+      }
+    }
+    &.right-custom-banner-style{
+        &:before{
+          position: absolute;
+          border-width: 17px;
+          border-style: solid;
+          content: '';top: 0;
+          right: 0;
+          border-color: #fff #fff transparent transparent;
+      }
+    }
+  }
+}

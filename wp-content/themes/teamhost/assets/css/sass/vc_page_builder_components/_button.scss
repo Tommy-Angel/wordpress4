@@ -1,0 +1,13 @@
+.fl-button-wrapper-vc{
+  &.inline-btn{
+    display: inline-flex;
+  }
+  a{
+    color: inherit;
+  }
+  .fl-vc-button{
+    &:hover{
+      color: #ffffff!important;
+    }
+  }
+}

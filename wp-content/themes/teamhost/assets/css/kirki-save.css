@@ -1,0 +1,713 @@
+.logo img {
+    max-width: 170px;
+}
+.page-header__mainmenu .uk-navbar-nav > li > a {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: none;
+}
+.page-header__mainmenu .uk-navbar-nav .uk-navbar-dropdown .uk-navbar-dropdown-nav a {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: none;
+}
+.uk-offcanvas .uk-nav li > a {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: none;
+}
+.uk-offcanvas .uk-offcanvas-bar .uk-nav-default .uk-nav-sub a {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: none;
+}
+.page-header__mainmenu .uk-navbar-nav > li.current-menu-item > a,
+.page-header__mainmenu .uk-navbar-nav > li > a:hover,
+.contacts-block i::before,
+.uk-card-body a.more span.uk-icon,
+.solution-item__link a.more span.uk-icon,
+.review-item__icon,
+.rating-list li.active,
+.new-item__date,
+.widget_nav_menu ul li a:hover,
+.widget_nav_menu ul li a:focus,
+.widget_nav_menu ul li a:active,
+.widget_nav_menu ul li a.nice-select.open,
+.news-list-item__date,
+.widget a:hover,
+.page-footer__copy a:hover,
+.tmtransports-transports-popular-wrap .equipment-item__title a:hover,
+.offer-price span,
+.rental-item__specifications ul li::before,
+.equipment-item__title a:hover,
+.uk-button .uk-icon,
+.equipment-detail__location .uk-icon,
+.widget_categories ul li a:hover,
+.widget_categories ul li a:focus,
+.widget_categories ul li a:active,
+.widget_categories ul li a.nice-select.open,
+.list-articles-item__date .uk-icon,
+.widget_archive ul li a:hover,
+.widget_archive ul li a:focus,
+.widget_archive ul li a:active,
+.widget_archive ul li a.nice-select.open,
+.widget_recent_entries ul li a:hover,
+.widget_recent_entries ul li a:focus,
+.widget_recent_entries ul li a:active,
+.widget_recent_entries ul li a.nice-select.open,
+.article-full__info > * i,
+.article-full__info > * svg,
+.article-intro__info > * i,
+.article-intro__info > * svg,
+.article-full__author a:hover,
+.article-full__author a:focus,
+.article-full__author a:active,
+.article-full__author a.nice-select.open,
+.article-intro__author a:hover,
+.article-intro__author a:focus,
+.article-intro__author a:active,
+.article-intro__author a.nice-select.open,
+.article-full__comments a:hover,
+.article-full__comments a:focus,
+.article-full__comments a:active,
+.article-full__comments a.nice-select.open,
+.article-intro__comments a:hover,
+.article-intro__comments a:focus,
+.article-intro__comments a:active,
+.article-intro__comments a.nice-select.open,
+.article-full__title a:hover,
+.article-intro__title a:hover,
+.contacts-list li span.label,
+.rental-item__links a,
+.equipment-item__links a,
+html a:hover,
+html .sidebar-box .widget.widget_nav_menu ul li.current-menu-item a span,
+.sidebar-box .uk-nav li.current-menu-item a i,
+html .youzify-directory-filter .item-list-tabs li.selected a:before,
+html body .youzify-navbar-inline-icons .youzify-navbar-item.youzify-active-menu a,
+html body .youzify-navbar-inline-icons .youzify-navbar-item.youzify-active-menu a i,
+.bpbm-empty-icon svg,
+html .gamipress-points .gamipress-user-points-description .gamipress-user-points-amount,
+html .gamipress-points .gamipress-user-points-description .gamipress-user-points-label,
+html .gamipress-points .gamipress-user-points-description .gamipress-user-points-amount:after,
+.theme-teamhost #message-recipients .highlight .highlight-meta a,
+.theme-teamhost .thread-sender .thread-from .from .thread-count,
+.theme-teamhost .widget_display_replies li a.bbp-author-name,
+.theme-teamhost .widget_display_topics li .topic-author a.bbp-author-name,
+.theme-teamhost .youzify-bbp-topic-head-meta .youzify-bbp-head-meta-last-updated a:not(.bbp-author-name),
+.theme-teamhost .youzify-group-navmenu li a:hover,
+.theme-teamhost .youzify-group-settings-tab fieldset legend,
+.theme-teamhost .youzify-link-main-content .youzify-link-url:hover,
+.theme-teamhost .youzify-post-content .youzify-post-title a:hover,
+.theme-teamhost .youzify-post-tags .youzify-tag-symbole,
+.theme-teamhost .youzify-product-price .youzify-product-new-price,
+.theme-teamhost .youzify-product-price ins .amount,
+.theme-teamhost .youzify-product-price.youzify-variable-price,
+.theme-teamhost .youzify-profile-navmenu .youzify-navbar-item a:hover,
+.theme-teamhost .youzify-profile-navmenu .youzify-navbar-item a:hover i,
+.theme-teamhost .youzify-project-tags .youzify-tag-symbole,
+.theme-teamhost .youzify-recent-posts .youzify-post-title a:hover,
+.theme-teamhost .youzify-tab-post .youzify-post-title a:hover,
+.theme-teamhost .youzify-wall-link-data .youzify-wall-link-url,
+.theme-teamhost .youzify-wall-new-post .youzify-post-title a:hover,
+.youzify div.item-list-tabs li.current.selected a i,
+.youzify div.item-list-tabs li.selected a,
+html .youzify-user-balance-box .youzify-box-head i,
+html .group-button a.join-group:before,
+html .theme-teamhost #youzify-group-buttons .group-button a.join-group,
+html .youzify-group-navmenu a:hover:before,
+html .docspress-nav-list a:hover,
+html .docspress-archive .docspress-archive-list > .docspress-archive-list-item .docspress-archive-list-item-title > span:before,
+#youzify .activity-meta i,
+html .youzify .activity-header .activity-head p a + a:hover {
+    color: #f46119;
+}
+html .youzify div.item-list-tabs li.current.selected a i:before,
+.youzify-horizontal-layout .youzify-group-navmenu .current.selected a,
+html .youzify-profile-list-widget .youzify-more-items a:hover,
+html body .gamipress-points .gamipress-user-points-description .gamipress-user-points-amount,
+.youzify #youzify-members-list .youzify-user-actions .follow-button a,
+.youzify #youzify-members-list .youzify-user-actions a.youzify-send-message,
+.widget .widget-title:before,
+html body div.widget.buddypress.widget_bp_core_members_widget div.item-options a.selected,
+.wpcf7-submit,
+.form-help-links a,
+.wpcf7 ul li:hover a,
+.wpcf7 ul li:hover i,
+.youzify-tools-full-btns .youzify-tool-btn .youzify-tool-icon i,
+.widget_product_categories ul li i,
+.list-articles-item__link:hover .list-articles-item__title,
+.widget_product_categories .product-categories li a:hover,
+.widget .wp-block-latest-comments li a:hover,
+.widget.widget_recent_comments ul li a:hover {
+    color: #f46119 !important;
+}
+.search .uk-radio:checked,
+.wpcf7-form .tm_home_contacts button:hover,
+.newsletter,
+.social li a:hover,
+.page-footer__menu .widget h5:after,
+.page-footer__news .widget h5:after,
+.page-header.--two-line .page-header__social .social__link:hover,
+.page-header.--two-line .page-header__contacts,
+.uk-button-danger,
+.equipment-item__list ul li::before,
+.tmtransports-transports-popular-wrap .uk-dotnav > .uk-active > *,
+.page-head__breadcrumb,
+.feature-item .uk-card .uk-nav li a:hover,
+.equipment-booking .rental-item__price-btn form.booking_form .book_now_btn,
+.equipment-booking .equipment-item__btn form.booking_form .book_now_btn,
+.uk-button-default:hover,
+.equipment-detail__gallery label.tmbooking_discount,
+.widget_tag_cloud .tagcloud a:hover,
+.widget_tag_cloud .wp-block-tag-cloud a:hover,
+.widget_tag_cloud .tagcloud a:focus,
+.widget_tag_cloud .wp-block-tag-cloud a:focus,
+.widget_tag_cloud .tagcloud a:active,
+.widget_tag_cloud .wp-block-tag-cloud a:active,
+.widget_tag_cloud .tagcloud a.nice-select.open,
+.widget_tag_cloud .wp-block-tag-cloud a.nice-select.open,
+.tags-list a:hover,
+.tags-list a:focus,
+.tags-list a:active,
+.tags-list a.nice-select.open,
+#buddypress.youzify div.generic-button a:hover,
+.youzify-user-actions a:hover,
+html .fl-view-profile:hover,
+#buddypress.youzify div.generic-button a:hover,
+.buddypress .youzify div.generic-button a:hover,
+.youzify-user-actions a:hover,
+html .youzify .editfield .checkbox-options input:checked,
+.youzify .editfield .clear-value,
+.youzify .editfield .field-visibility-settings .field-visibility-settings-close,
+.youzify .editfield .field-visibility-settings-notoggle .visibility-toggle-link,
+.youzify .editfield .field-visibility-settings-toggle .visibility-toggle-link,
+.my-friends.theme-teamhost #friend-list .action a.accept,
+.theme-teamhost #bbpress-forums #bbp-search-form #bbp_search_submit,
+.theme-teamhost #bbpress-forums .bbp-search-form #bbp_search_submit,
+.theme-teamhost #bbpress-forums li.bbp-footer,
+.theme-teamhost #bbpress-forums li.bbp-header,
+.theme-teamhost #group-create-tabs li.current,
+.theme-teamhost #group-settings-form input[type="submit"],
+.theme-teamhost #message-recipients .highlight-icon i,
+.theme-teamhost #search-members-form #members_search_submit,
+.theme-teamhost #send-invite-form .submit input,
+.theme-teamhost #send-reply #send_reply_button,
+.theme-teamhost #send_message_form .submit #send,
+.theme-teamhost #youzify-directory-search-box form input[type="submit"],
+.theme-teamhost #youzify-group-body h1:before,
+.theme-teamhost #youzify-group-buttons .group-button a.join-group,
+.theme-teamhost #youzify-groups-list .action .group-button .accept-invite,
+.theme-teamhost #youzify-groups-list .action .group-button .join-group,
+.theme-teamhost #youzify-groups-list .action .group-button .membership-requested,
+.theme-teamhost #youzify-groups-list .action .group-button .request-membership,
+.theme-teamhost .group-button.accept-invite,
+.theme-teamhost .group-button.join-group,
+.theme-teamhost .group-button.request-membership,
+.theme-teamhost .group-request-list .action .accept a,
+.theme-teamhost .invitations .invitation-actions a.resend span,
+.theme-teamhost .item-list-tabs #search-message-form #messages_search_submit,
+.theme-teamhost .messages-notices .thread-options .read span,
+.theme-teamhost .messages-options-nav #messages-bulk-manage,
+.theme-teamhost .notifications .notification-actions .mark-read span,
+.theme-teamhost .notifications-options-nav #notification-bulk-manage,
+.theme-teamhost .pagination .current,
+.theme-teamhost .sitewide-notices .thread-options .activate-notice,
+.theme-teamhost .widget_display_forums li a:before,
+.theme-teamhost .widget_display_search #bbp_search_submit,
+.theme-teamhost .widget_display_topics li:before,
+.theme-teamhost .widget_display_views li .bbp-view-title:before,
+.theme-teamhost .youzify .checkout_coupon,
+.theme-teamhost .youzify .wc-proceed-to-checkout a.checkout-button,
+.theme-teamhost .youzify .wc-proceed-to-checkout a.checkout-button:hover,
+.theme-teamhost .youzify .woocommerce-customer-details h2,
+.theme-teamhost .youzify .youzify-attachment-file-icon,
+.theme-teamhost .youzify .youzify-wc-box-title h3,
+.theme-teamhost .youzify .youzify-wc-main-content #payment #place_order,
+.theme-teamhost .youzify .youzify-wc-main-content .track_order .form-row button,
+.theme-teamhost .youzify .youzify-wc-main-content .woocommerce-checkout-review-order table.shop_table tfoot .order-total,
+.theme-teamhost .youzify .youzify-wc-main-content .woocommerce-checkout-review-order table.shop_table thead,
+.theme-teamhost .youzify .youzify-wc-main-content button[type="submit"],
+.theme-teamhost .youzify .youzify-wc-main-content h3,
+.theme-teamhost .youzify .youzify-wc-main-content table.shop_table td a.view:before,
+.theme-teamhost .youzify .youzify-wc-main-content table.shop_table td a.woocommerce-MyAccount-downloads-file:before,
+.theme-teamhost .youzify .youzify-wc-main-content table.shop_table td.actions .coupon button,
+.theme-teamhost .youzify .youzify-wc-main-content table.shop_table td.woocommerce-orders-table__cell-order-number a,
+.theme-teamhost .youzify .youzify-wc-main-content table.shop_table thead,
+.theme-teamhost .youzify div.item-list-tabs li.youzify-activity-show-search .youzify-activity-show-search-form i,
+.theme-teamhost .youzify table tfoot tr,
+.theme-teamhost .youzify table thead tr,
+.theme-teamhost .youzify table.shop_table.order_details tfoot tr:last-child,
+.theme-teamhost .youzify-author .youzify-account-settings,
+.theme-teamhost .youzify-author .youzify-login,
+.theme-teamhost .youzify-community-hashtags .youzify-hashtag-item:hover,
+.theme-teamhost .youzify-current-bg-color,
+.theme-teamhost .youzify-current-checked-bg-color:checked,
+.theme-teamhost .youzify-forums-forum-item .youzify-forums-forum-icon i,
+.theme-teamhost .youzify-forums-topic-item .youzify-forums-topic-icon i,
+.theme-teamhost .youzify-group-manage-members-search #members_search_submit,
+.theme-teamhost .youzify-group-settings-tab input[type="submit"],
+.theme-teamhost .youzify-items-list-widget .youzify-list-item .youzify-item-action .youzify-add-button i,
+.theme-teamhost .youzify-loading .youzify_msg,
+.theme-teamhost .youzify-media-filter .youzify-filter-item .youzify-current-filter,
+.theme-teamhost .youzify-nav-effect .youzify-menu-border,
+.theme-teamhost .youzify-pagination .page-numbers.current,
+.theme-teamhost .youzify-post .youzify-read-more,
+.theme-teamhost .youzify-post-content .youzify-post-type,
+.theme-teamhost .youzify-product-actions .youzify-addtocart,
+.theme-teamhost .youzify-project-content .youzify-project-type,
+.theme-teamhost .youzify-scrolltotop i:hover,
+.theme-teamhost .youzify-service-icon i:hover,
+.theme-teamhost .youzify-social-buttons .friendship-button a,
+.theme-teamhost .youzify-social-buttons .friendship-button a.requested,
+.theme-teamhost .youzify-tab-post .youzify-read-more,
+.theme-teamhost .youzify-tab-title-box,
+.theme-teamhost .youzify-user-actions .friendship-button a,
+.theme-teamhost .youzify-user-actions .friendship-button a.requested,
+.theme-teamhost .youzify-view-order .youzify-wc-main-content > p mark.order-status,
+.theme-teamhost .youzify-wall-actions .youzify-wall-post,
+.theme-teamhost .youzify-wall-embed .youzify-embed-action .friendship-button a,
+.theme-teamhost .youzify-wall-embed .youzify-embed-action .friendship-button a.requested,
+.theme-teamhost .youzify-wall-embed .youzify-embed-action .group-button a,
+.theme-teamhost .youzify-wall-file-post,
+.theme-teamhost .youzify-wall-new-post .youzify-post-more-button,
+.theme-teamhost .youzify-widget .youzify-user-tags .youzify-utag-values .youzify-utag-value-item,
+.theme-teamhost div.bbp-submit-wrapper button,
+.theme-teamhost input[type="submit"],
+html .theme-teamhost .youzify-current-bg-color,
+html .docspress-btn:hover,
+html .docspress-btn.hover,
+html .youzify .activity-list li.load-more a,
+html .youzify-tool-btn,
+html .youzify-tabs-list-colorful #directory-show-filter a:before,
+html .youzify-tabs-list-colorful .youzify-default-subnav li:nth-child(9) a i,
+html .l-sidebar form.mc4wp-form .mc4wp-form-fields input[type="submit"] {
+    background-color: #f46119;
+}
+html .theme-teamhost #youzify-group-buttons .group-button a.join-group:hover,
+.wpcf7-submit:hover {
+    background-color: #f46119 !important;
+}
+.js-solution-slider .slider-nav .swiper-button-prev,
+.js-solution-slider .slider-nav .swiper-button-next,
+.fl--404-page-wrapper .fl-404-page-search-form .fl--search-form-404 .searchsubmit button {
+    background: #f46119;
+}
+.newsletter {
+    background: #f46119;
+}
+.js-solution-slider .slider-nav .swiper-button-prev,
+.js-solution-slider .slider-nav .swiper-button-next,
+.wpcf7-form .tm_home_contacts button:hover,
+.feature-item:hover .feature-item__box,
+.uk-button-default:hover,
+.widget_tag_cloud .tagcloud a:hover,
+.widget_tag_cloud .wp-block-tag-cloud a:hover,
+.widget_tag_cloud .tagcloud a:focus,
+.widget_tag_cloud .wp-block-tag-cloud a:focus,
+.widget_tag_cloud .tagcloud a:active,
+.widget_tag_cloud .wp-block-tag-cloud a:active,
+.widget_tag_cloud .tagcloud a.nice-select.open,
+.widget_tag_cloud .wp-block-tag-cloud a.nice-select.open,
+.tags-list a:hover,
+.tags-list a:focus,
+.tags-list a:active,
+.tags-list a.nice-select.open,
+#youzify-group-buttons a.leave-group:hover,
+#youzify-group-buttons a.membership-requested:hover,
+html body .youzify-group-navmenu .current.selected a:before,
+.youzify #youzify-members-list .youzify-user-actions a.youzify-send-message {
+    border-color: #f46119;
+}
+.stat-item {
+    border-right: #f46119 2px solid;
+}
+.equipment-order,
+blockquote {
+    border-left: #f46119 5px solid;
+}
+.uk-card-body a.more:hover span,
+html .youzify-group-navmenu .current.selected a:before,
+#youzify-group-buttons a.leave-group:hover,
+#youzify-group-buttons a.membership-requested:hover,
+html .youzify-group-navmenu a.join-group:hover:before,
+.group-button a.request-membership:before {
+    color: #f46119 !important;
+}
+html .group-button a.leave-group:hover:before,
+html .docspress-btn:hover,
+html .docspress-btn.hover,
+html body div.widget.buddypress.widget_bp_core_members_widget div.item-options a.selected:before,
+.elementor-widget-tm-streams .fl-subnav ul li.uk-active a {
+    border-color: #f46119 !important;
+}
+.uk-card-body a.more:hover span {
+    color: rgba(244, 97, 25, 0.05) !important;
+}
+html body .youzify-group-navmenu .current.selected a:before,
+html body .youzify-navbar-inline-icons .youzify-navbar-item.youzify-active-menu a i,
+.youzify-directory-filter .item-list-tabs li.selected a span,
+html .theme-teamhost #youzify-group-buttons .group-button a.join-group,
+html .youzify-group-navmenu a.join-group:before,
+.theme-teamhost #youzify-group-buttons .group-button a.join-group,
+html .youzify-group-navmenu a:hover:before,
+html #youzify-profile-navmenu.youzify-group-navmenu .current.selected a span,
+.youzify #youzify-members-list .youzify-user-actions .follow-button a,
+.wpcf7-submit {
+    background-color: rgba(244, 97, 25, 0.05) !important;
+}
+{
+    background: rgba(244, 97, 25, 0.05);
+    border: rgba(244, 97, 25, 0.05) 1px solid;
+    color: #81bf55 !important;
+}
+html .youzify-group-navmenu a:hover:before {
+    border-color: rgba(244, 97, 25, 0.05);
+}
+.feature-item__box .feature-item__title:hover,
+.equipment-item__price-current,
+.rental-item__price-current,
+.rental-item__title:hover,
+.rental-item__links a:hover,
+.equipment-item__links a:hover {
+    color: #ef2828;
+}
+.search-btn,
+.search-btn:hover,
+.swiper-pagination-horizontal .swiper-pagination-bullet-active,
+.uk-button-danger:hover,
+.uk-button-danger:focus,
+.uk-button-danger:active,
+.uk-button-danger.nice-select.open,
+.equipment-booking .rental-item__price-btn form.booking_form .book_now_btn:hover,
+.equipment-booking .equipment-item__btn form.booking_form .book_now_btn:hover,
+html .youzify #bp-browse-button,
+html body .fl-gp-button a:hover {
+    background-color: #ef2828;
+}
+.theme-teamhost .group-button.join-group:hover,
+.group-button.request-membership:hover,
+.theme-teamhost .youzify-social-buttons .friendship-button a:hover,
+#youzify-wall-form .youzify-wall-actions .youzify-wall-post:hover,
+html .theme-teamhost #youzify-members-list .youzify-user-actions .friendship-button .requested {
+    background-color: #ef2828 !important;
+}
+.js-solution-slider .slider-nav .swiper-button-prev:hover,
+.js-solution-slider .slider-nav .swiper-button-next:hover,
+.js-solution-slider .slider-nav .swiper-button-prev:active,
+.js-solution-slider .slider-nav .swiper-button-next:active,
+.js-solution-slider .slider-nav .swiper-button-prev:focus,
+.js-solution-slider .slider-nav .swiper-button-next:focus,
+.equipment-item .uk-button-default:hover,
+.uk-pagination .page-numbers.current,
+.uk-pagination .page-numbers:hover {
+    background: #ef2828;
+}
+.js-solution-slider .slider-nav .swiper-button-prev:hover,
+.js-solution-slider .slider-nav .swiper-button-next:hover,
+.js-solution-slider .slider-nav .swiper-button-prev:active,
+.js-solution-slider .slider-nav .swiper-button-next:active,
+.js-solution-slider .slider-nav .swiper-button-prev:focus,
+.js-solution-slider .slider-nav .swiper-button-next:focus {
+    border: #ef2828 1px solid;
+}
+.equipment-item .uk-button-default:hover,
+.uk-pagination .page-numbers.current,
+.uk-pagination .page-numbers:hover {
+    border-color: #ef2828;
+}
+html .youzify-user-balance-box .youzify-box-head,
+html .youzify-user-balance-box .youzify-user-level-data,
+.theme-teamhost #youzify-members-list .youzify-user-actions .friendship-button a,
+.theme-teamhost #youzify-wall-nav .item-list-tabs li#activity-filter-select label,
+.theme-teamhost .bbp-pagination .page-numbers.current,
+.theme-teamhost .button.accept {
+    background: #81bf55;
+}
+.youzify-user-balance-box,
+html body .youzify-navbar-inline-icons .youzify-navbar-item.youzify-active-menu a i,
+.youzify-directory-filter .item-list-tabs li.selected a span,
+.youzify-user-balance-box,
+html body .youzify-navbar-inline-icons .youzify-navbar-item.youzify-active-menu a i,
+.youzify-directory-filter .item-list-tabs li.selected a span {
+    background: rgba(130, 191, 86, 0.43);
+}
+body {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-transform: none;
+    color: #353535;
+}
+.entry-content .h1,
+.entry-content .h2,
+.entry-content .h3,
+.entry-content .h4,
+.entry-content .h5,
+.entry-content .h6,
+.fl-text-title-style,
+.youzify-hdr-v2 .youzify-name h2,
+.docspress-single-content .entry-header .entry-title,
+.page-title,
+.article-intro .entry-title a,
+#activity-stream .youzify-embed-name,
+html .youzify-membership-form .form-title h2,
+.uk-modal-title {
+    font-family: Marcellus;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 37px;
+}
+html .youzify-name h2 {
+    font-family: Marcellus;
+}
+.fl-font-style-regular,
+html .youzify-widget .youzify-widget-main-content .youzify-widget-title,
+#sitewide-notice,
+#youzify div textarea,
+.widget.buddypress,
+.widget_bp_core_members_widget .item-options a,
+.widget_bp_core_sitewide_messages .bp-site-wide-message button,
+.widget_bp_groups_widget .item-options a,
+.youzify a,
+.youzify a.button,
+.youzify input,
+.youzify p,
+.youzify select,
+.youzify textarea,
+.youzify-dialog,
+.youzify-dialog-desc,
+.youzify-items-list-widget,
+.youzify-modal-actions a,
+.youzify-modal-actions button,
+.youzify-my-account-widget,
+.youzify-tool-btn .youzify-tool-name,
+.youzify-tooltip:after,
+.youzify-wp-widget,
+[data-youzify-tooltip]:after,
+body #youzify input,
+body .youzify,
+body .youzify button,
+body .youzify h3,
+body .youzify input {
+    font-family: Inter;
+    font-weight: 400;
+}
+.fl-font-style-regular-two,
+.lb-data .lb-caption,
+.lb-data .lb-number,
+.pagination .page-numbers,
+.youzify .youzify-link-content p,
+.youzify-aboutme-description,
+.youzify-aboutme-name,
+.youzify-box-404 h2,
+.youzify-box-404 p,
+.youzify-box-head .youzify-box-title,
+.youzify-form .youzify-form-message p,
+.youzify-info-msg p,
+.youzify-info-msg p strong,
+.youzify-infos-content ul li p,
+.youzify-infos-content ul li strong,
+.youzify-item-title,
+.youzify-post-content .youzify-post-title a,
+.youzify-post-plus4imgs .youzify-post-imgs-nbr,
+.youzify-post-type,
+.youzify-profile-login,
+.youzify-profile-navmenu .youzify-navbar-item a,
+.youzify-project-content .youzify-project-title,
+.youzify-project-type,
+.youzify-quote-content blockquote,
+.youzify-quote-owner,
+.youzify-recent-posts .youzify-post-head .youzify-post-title a,
+.youzify-recent-posts .youzify-post-meta ul li,
+.youzify-skill-bar-percent,
+.youzify-skillbar-title,
+.youzify-tab-comment .youzify-comment-excerpt p,
+.youzify-tab-comment .youzify-comment-fullname,
+.youzify-tab-comment .youzify-comment-title,
+.youzify-tab-post .youzify-post-meta ul li,
+.youzify-tab-post .youzify-post-text p,
+.youzify-tab-post .youzify-post-title a,
+.youzify-video-head .youzify-video-desc,
+.youzify-video-head .youzify-video-title,
+.youzify-wg-networks.youzify-icons-full-width li a,
+.youzify-widget .youzify-widget-title,
+.youzify_msg span,
+.youzify-user-balance-box .youzify-user-level-title,
+.my-friends.youzify-lightblue-scheme #friend-list .action a.accept,
+.youzify-lightblue-scheme #bbpress-forums #bbp-search-form #bbp_search_submit,
+.youzify-lightblue-scheme #bbpress-forums .bbp-search-form #bbp_search_submit,
+.youzify-lightblue-scheme #bbpress-forums li.bbp-footer,
+.youzify-lightblue-scheme #bbpress-forums li.bbp-header,
+.youzify-lightblue-scheme #group-create-tabs li.current,
+.youzify-lightblue-scheme #group-settings-form input[type="submit"],
+.youzify-lightblue-scheme #message-recipients .highlight-icon i,
+.youzify-lightblue-scheme #search-members-form #members_search_submit,
+.youzify-lightblue-scheme #send-invite-form .submit input,
+.youzify-lightblue-scheme #send-reply #send_reply_button,
+.youzify-lightblue-scheme #send_message_form .submit #send,
+.youzify-lightblue-scheme #youzify-directory-search-box form input[type="submit"],
+.youzify-lightblue-scheme #youzify-group-body h1:before,
+.youzify-lightblue-scheme #youzify-group-buttons .group-button a.join-group,
+.youzify-lightblue-scheme #youzify-groups-list .action .group-button .accept-invite,
+.youzify-lightblue-scheme #youzify-groups-list .action .group-button .join-group,
+.youzify-lightblue-scheme #youzify-groups-list .action .group-button .membership-requested,
+.youzify-lightblue-scheme #youzify-groups-list .action .group-button .request-membership,
+.youzify-lightblue-scheme #youzify-members-list .youzify-user-actions .friendship-button .requested,
+.youzify-lightblue-scheme #youzify-members-list .youzify-user-actions .friendship-button a,
+.youzify-lightblue-scheme #youzify-wall-nav .item-list-tabs li#activity-filter-select label,
+.youzify-lightblue-scheme .bbp-pagination .page-numbers.current,
+.youzify-lightblue-scheme .button.accept,
+.youzify-lightblue-scheme .group-button.accept-invite,
+.youzify-lightblue-scheme .group-button.join-group,
+.youzify-lightblue-scheme .group-button.request-membership,
+.youzify-lightblue-scheme .group-request-list .action .accept a,
+.youzify-lightblue-scheme .invitations .invitation-actions a.resend span,
+.youzify-lightblue-scheme .item-list-tabs #search-message-form #messages_search_submit,
+.youzify-lightblue-scheme .messages-notices .thread-options .read span,
+.youzify-lightblue-scheme .messages-options-nav #messages-bulk-manage,
+.youzify-lightblue-scheme .notifications .notification-actions .mark-read span,
+.youzify-lightblue-scheme .notifications-options-nav #notification-bulk-manage,
+.youzify-lightblue-scheme .pagination .current,
+.youzify-lightblue-scheme .sitewide-notices .thread-options .activate-notice,
+.youzify-lightblue-scheme .widget_display_forums li a:before,
+.youzify-lightblue-scheme .widget_display_search #bbp_search_submit,
+.youzify-lightblue-scheme .widget_display_topics li:before,
+.youzify-lightblue-scheme .widget_display_views li .bbp-view-title:before,
+.youzify-lightblue-scheme .youzify .checkout_coupon,
+.youzify-lightblue-scheme .youzify .wc-proceed-to-checkout a.checkout-button,
+.youzify-lightblue-scheme .youzify .wc-proceed-to-checkout a.checkout-button:hover,
+.youzify-lightblue-scheme .youzify .woocommerce-customer-details h2,
+.youzify-lightblue-scheme .youzify .youzify-attachment-file-icon,
+.youzify-lightblue-scheme .youzify .youzify-wc-box-title h3,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content #payment #place_order,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content .track_order .form-row button,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content .woocommerce-checkout-review-order table.shop_table tfoot .order-total,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content .woocommerce-checkout-review-order table.shop_table thead,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content button[type="submit"],
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content h3,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content table.shop_table td a.view:before,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content table.shop_table td a.woocommerce-MyAccount-downloads-file:before,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content table.shop_table td.actions .coupon button,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content table.shop_table td.woocommerce-orders-table__cell-order-number a,
+.youzify-lightblue-scheme .youzify .youzify-wc-main-content table.shop_table thead,
+.youzify-lightblue-scheme .youzify div.item-list-tabs li.youzify-activity-show-search .youzify-activity-show-search-form i,
+.youzify-lightblue-scheme .youzify table tfoot tr,
+.youzify-lightblue-scheme .youzify table thead tr,
+.youzify-lightblue-scheme .youzify table.shop_table.order_details tfoot tr:last-child,
+.youzify-lightblue-scheme .youzify-author .youzify-account-settings,
+.youzify-lightblue-scheme .youzify-author .youzify-login,
+.youzify-lightblue-scheme .youzify-community-hashtags .youzify-hashtag-item:hover,
+.youzify-lightblue-scheme .youzify-current-bg-color,
+.youzify-lightblue-scheme .youzify-current-checked-bg-color:checked,
+.youzify-lightblue-scheme .youzify-forums-forum-item .youzify-forums-forum-icon i,
+.youzify-lightblue-scheme .youzify-forums-topic-item .youzify-forums-topic-icon i,
+.youzify-lightblue-scheme .youzify-group-manage-members-search #members_search_submit,
+.youzify-lightblue-scheme .youzify-group-settings-tab input[type="submit"],
+.youzify-lightblue-scheme .youzify-items-list-widget .youzify-list-item .youzify-item-action .youzify-add-button i,
+.youzify-lightblue-scheme .youzify-loading .youzify_msg,
+.youzify-lightblue-scheme .youzify-media-filter .youzify-filter-item .youzify-current-filter,
+.youzify-lightblue-scheme .youzify-nav-effect .youzify-menu-border,
+.youzify-lightblue-scheme .youzify-pagination .page-numbers.current,
+.youzify-lightblue-scheme .youzify-post .youzify-read-more,
+.youzify-lightblue-scheme .youzify-post-content .youzify-post-type,
+.youzify-lightblue-scheme .youzify-product-actions .youzify-addtocart,
+.youzify-lightblue-scheme .youzify-project-content .youzify-project-type,
+.youzify-lightblue-scheme .youzify-scrolltotop i:hover,
+.youzify-lightblue-scheme .youzify-service-icon i:hover,
+.youzify-lightblue-scheme .youzify-social-buttons .friendship-button a,
+.youzify-lightblue-scheme .youzify-social-buttons .friendship-button a.requested,
+.youzify-lightblue-scheme .youzify-tab-post .youzify-read-more,
+.youzify-lightblue-scheme .youzify-tab-title-box,
+.youzify-lightblue-scheme .youzify-user-actions .friendship-button a,
+.youzify-lightblue-scheme .youzify-user-actions .friendship-button a.requested,
+.youzify-lightblue-scheme .youzify-view-order .youzify-wc-main-content > p mark.order-status,
+.youzify-lightblue-scheme .youzify-wall-actions .youzify-wall-post,
+.youzify-lightblue-scheme .youzify-wall-embed .youzify-embed-action .friendship-button a,
+.youzify-lightblue-scheme .youzify-wall-embed .youzify-embed-action .friendship-button a.requested,
+.youzify-lightblue-scheme .youzify-wall-embed .youzify-embed-action .group-button a,
+.youzify-lightblue-scheme .youzify-wall-file-post,
+.youzify-lightblue-scheme .youzify-wall-new-post .youzify-post-more-button,
+.youzify-lightblue-scheme .youzify-widget .youzify-user-tags .youzify-utag-values .youzify-utag-value-item,
+.youzify-lightblue-scheme div.bbp-submit-wrapper button,
+.youzify-lightblue-scheme input[type="submit"] {
+    font-family: Inter;
+    font-weight: 400;
+}
+.fl-font-style-bolt,
+.fl-vc-tabs .tabs-entry-content .nav-tabs li:before,
+body .youzify button,
+body .youzify h3,
+body .youzify input,
+html #youzify .fl-transports-archives .rental-item .rental-item__desc .rental-item__title,
+#youzify .youzify-directory-filter .item-list-tabs li select,
+#youzify-directory-search-box form input[type="submit"],
+#youzify-directory-search-box form input[type="text"],
+#youzify-groups-list .action a,
+#youzify-groups-list .item .item-meta span,
+#youzify-groups-list .item .item-title a,
+#youzify-members-list .youzify-fullname,
+#youzify-members-list .youzify-meta-item,
+#youzify-members-list .youzify-user-actions a {
+    font-family: Inter;
+    font-weight: 700;
+}
+.fl-font-style-bolt-two {
+    font-family: Inter;
+    font-weight: 700;
+}
+.fl-font-style-semi-bolt,
+.sidebar .widget_rss ul li .rsswidget,
+.sidebar .widget_calendar .calendar_wrap #wp-calendar caption,
+.transport-details .wrap-nav-table-content ul li span,
+.post-inner-pagination .pagination-text,
+.page-inner-pagination .pagination-text {
+    font-family: Inter;
+    font-weight: 600;
+}
+.fl-font-style-regular-testimonial,
+.fl-vc-testimonial-slider-wrapper .testimonial-slider.testimonial-style-one .testimonial-slide .top-slider-content,
+.fl-vc-testimonial-slider-wrapper .testimonial-slider.testimonial-style-two .slide-content .top-slider-content {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: italic;
+}
+h1,
+.h1 {
+    font-size: 48px;
+}
+h2,
+.h2 {
+    font-size: 32px;
+}
+h3,
+.h3 {
+    font-size: 28px;
+}
+h4,
+.h4 {
+    font-size: 24px;
+}
+h5,
+.h5 {
+    font-size: 20px;
+}
+h6,
+.h6 {
+    font-size: 16px;
+}
+#fl-page--preloader .fl-top-background-preloader,
+#fl-page--preloader .fl-bottom-background-preloader {
+    background-color: #fff;
+}
+#fl-page--preloader .fl-top-progress .fl-loader_left,
+#fl-page--preloader .fl-top-progress .fl-loader_right,
+#fl-page--preloader .fl--preloader-progress-bar span {
+    background-color: #f46119 !important;
+}

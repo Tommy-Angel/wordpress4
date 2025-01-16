@@ -1,0 +1,156 @@
+.fl-vc-tabs{
+	.tabs-entry-content{
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+	// Tab Content
+	.tab-content{
+		.tab-pane{
+			display: none;
+			&.active{
+				display: block;
+				position: relative;
+				animation: showTab 300ms ease-in-out both;
+			}
+		}
+	}
+	// Style One
+	&.tab-style-one{
+		//Nav Tabs
+		.nav-tabs{
+			padding-left: 0;
+			margin: 0;
+			border: none;
+			display: flex;
+			flex-wrap: wrap;
+			padding-right: 45px;
+			li{
+				position: relative;
+				counter-increment: figure;
+				cursor: pointer;
+				text-align: right;
+				flex: 0 0 50%;
+				padding: 30px;
+				padding-top: 50px;
+				background-color: #fff;
+				box-shadow: 0 0 12px 8px rgba(129, 129, 129, 0.06);
+				margin: 0;
+				list-style: none;
+				transition: .3s ease;
+				&:before{
+					opacity: .6;
+					font-size: 16px;
+					position: absolute;
+					left: 30px;
+					top: 30px;
+					content: counter(figure,decimal-leading-zero);
+				}
+				.tab-link-content{
+					.tabs-icon{
+						opacity: .7;
+						font-size: 75px;
+					}
+					.tab-title-content{
+						margin-top: 15px;
+						font-size: 17px;
+					}
+
+				}
+				&.active{
+					transition: .3s ease;
+					color: #fff;
+					.tab-link-content{
+						.tabs-icon{
+							opacity: 1;
+						}
+					}
+					&:before{
+						opacity: .8;
+						font-size: 25px;
+					}
+				}
+			}
+		}
+	}
+
+	&.tab-style-two{
+		//Nav Tabs
+		.nav-tabs{
+			margin: 0;
+			border: none;
+			display: flex;
+			flex-wrap: wrap;
+			li{
+				position: relative;
+				counter-increment: figure;
+				cursor: pointer;
+				text-align: center;
+				flex: 0 0 20%;
+				padding: 30px;
+				padding-top: 50px;
+				background-color: #fff;
+				box-shadow: 0 0 12px 8px rgba(129, 129, 129, 0.06);
+				margin: 0;
+				list-style: none;
+				transition: .3s ease;
+				&:before{
+					opacity: .6;
+					font-size: 16px;
+					position: absolute;
+					left: 30px;
+					top: 30px;
+					content: counter(figure,decimal-leading-zero);
+				}
+				.tab-link-content{
+					.tabs-icon{
+						opacity: .7;
+						font-size: 75px;
+					}
+					.tab-title-content{
+						margin-top: 15px;
+						font-size: 17px;
+					}
+
+				}
+				&.active{
+					z-index: 2;
+					transition: .3s ease;
+					color: #fff;
+					.tab-link-content{
+						.tabs-icon{
+							opacity: 1;
+						}
+					}
+					&:before{
+						opacity: .8;
+						font-size: 25px;
+					}
+				}
+			}
+
+		}
+		.tab-content{
+			.tab-pane{
+				.fl_custom_text__block{
+					p{
+						margin-bottom: 15px;
+						&:last-child{
+							margin-bottom: 0;
+						}
+					}
+					p + p{
+						margin-top: 15px!important;
+					}
+				}
+
+			}
+		}
+	}
+
+}
+
+@keyframes showTab{
+	from {opacity: 0; top: 5px}
+	to {opacity: 1; top: 0;}
+}
